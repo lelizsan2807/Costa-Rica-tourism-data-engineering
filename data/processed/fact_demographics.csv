@@ -1,0 +1,694 @@
+period,year,quarter,dimension,category,value
+2010-Q3,2010,3,overall,Total,130083.0
+2010-Q4,2010,4,overall,Total,122378.0
+2011-Q1,2011,1,overall,Total,111747.0
+2011-Q2,2011,2,overall,Total,110888.0
+2011-Q3,2011,3,overall,Total,125924.0
+2011-Q4,2011,4,overall,Total,131777.0
+2012-Q1,2012,1,overall,Total,136111.0
+2012-Q2,2012,2,overall,Total,128172.0
+2012-Q3,2012,3,overall,Total,126207.0
+2012-Q4,2012,4,overall,Total,131261.0
+2013-Q1,2013,1,overall,Total,151069.0
+2013-Q2,2013,2,overall,Total,143774.0
+2013-Q3,2013,3,overall,Total,155330.0
+2013-Q4,2013,4,overall,Total,158149.0
+2014-Q1,2014,1,overall,Total,144059.0
+2014-Q2,2014,2,overall,Total,153224.0
+2014-Q3,2014,3,overall,Total,148818.0
+2014-Q4,2014,4,overall,Total,150728.0
+2015-Q1,2015,1,overall,Total,151897.0
+2015-Q2,2015,2,overall,Total,155701.0
+2015-Q3,2015,3,overall,Total,152252.0
+2015-Q4,2015,4,overall,Total,166444.0
+2016-Q1,2016,1,overall,Total,159235.0
+2016-Q2,2016,2,overall,Total,144435.0
+2016-Q3,2016,3,overall,Total,144531.0
+2016-Q4,2016,4,overall,Total,161503.0
+2017-Q1,2017,1,overall,Total,160973.0
+2017-Q2,2017,2,overall,Total,160011.0
+2017-Q3,2017,3,overall,Total,156990.0
+2017-Q4,2017,4,overall,Total,143211.0
+2018-Q1,2018,1,overall,Total,147604.0
+2018-Q2,2018,2,overall,Total,168190.0
+2018-Q3,2018,3,overall,Total,167815.0
+2018-Q4,2018,4,overall,Total,160293.0
+2019-Q1,2019,1,overall,Total,170144.0
+2019-Q2,2019,2,overall,Total,176232.0
+2019-Q3,2019,3,overall,Total,169679.0
+2019-Q4,2019,4,overall,Total,167423.0
+2020-Q1,2020,1,overall,Total,171022.0
+2020-Q2,2020,2,overall,Total,85272.0
+2020-Q3,2020,3,overall,Total,122171.0
+2020-Q4,2020,4,overall,Total,131815.0
+2021-Q1,2021,1,overall,Total,139954.0
+2021-Q2,2021,2,overall,Total,152656.0
+2021-Q3,2021,3,overall,Total,158007.0
+2021-Q4,2021,4,overall,Total,151316.0
+2022-Q1,2022,1,overall,Total,171351.0
+2022-Q2,2022,2,overall,Total,174663.0
+2022-Q3,2022,3,overall,Total,164700.0
+2022-Q4,2022,4,overall,Total,166107.0
+2023-Q1,2023,1,overall,Total,158810.0
+2023-Q2,2023,2,overall,Total,151050.0
+2023-Q3,2023,3,overall,Total,175230.0
+2023-Q4,2023,4,overall,Total,167982.0
+2024-Q1,2024,1,overall,Total,172545.0
+2024-Q2,2024,2,overall,Total,187798.0
+2024-Q3,2024,3,overall,Total,189093.0
+2024-Q4,2024,4,overall,Total,182626.0
+2025-Q1,2025,1,overall,Total,173207.0
+2025-Q2,2025,2,overall,Total,164825.0
+2025-Q3,2025,3,overall,Total,166923.0
+2025-Q4,2025,4,overall,Total,161207.0
+2026-Q1,2026,1,overall,Total,163564.0
+2010-Q3,2010,3,sex,Hombre,66299.0
+2010-Q4,2010,4,sex,Hombre,64716.0
+2011-Q1,2011,1,sex,Hombre,54381.0
+2011-Q2,2011,2,sex,Hombre,56064.0
+2011-Q3,2011,3,sex,Hombre,61010.0
+2011-Q4,2011,4,sex,Hombre,69781.0
+2012-Q1,2012,1,sex,Hombre,70937.0
+2012-Q2,2012,2,sex,Hombre,71182.0
+2012-Q3,2012,3,sex,Hombre,65264.0
+2012-Q4,2012,4,sex,Hombre,72750.0
+2013-Q1,2013,1,sex,Hombre,84616.0
+2013-Q2,2013,2,sex,Hombre,74271.0
+2013-Q3,2013,3,sex,Hombre,74580.0
+2013-Q4,2013,4,sex,Hombre,76798.0
+2014-Q1,2014,1,sex,Hombre,63840.0
+2014-Q2,2014,2,sex,Hombre,76217.0
+2014-Q3,2014,3,sex,Hombre,67296.0
+2014-Q4,2014,4,sex,Hombre,68929.0
+2015-Q1,2015,1,sex,Hombre,72934.0
+2015-Q2,2015,2,sex,Hombre,70260.0
+2015-Q3,2015,3,sex,Hombre,75683.0
+2015-Q4,2015,4,sex,Hombre,83952.0
+2016-Q1,2016,1,sex,Hombre,78057.0
+2016-Q2,2016,2,sex,Hombre,71972.0
+2016-Q3,2016,3,sex,Hombre,78518.0
+2016-Q4,2016,4,sex,Hombre,84204.0
+2017-Q1,2017,1,sex,Hombre,82563.0
+2017-Q2,2017,2,sex,Hombre,73235.0
+2017-Q3,2017,3,sex,Hombre,70813.0
+2017-Q4,2017,4,sex,Hombre,69195.0
+2018-Q1,2018,1,sex,Hombre,69831.0
+2018-Q2,2018,2,sex,Hombre,73289.0
+2018-Q3,2018,3,sex,Hombre,75616.0
+2018-Q4,2018,4,sex,Hombre,73840.0
+2019-Q1,2019,1,sex,Hombre,79240.0
+2019-Q2,2019,2,sex,Hombre,75551.0
+2019-Q3,2019,3,sex,Hombre,76790.0
+2019-Q4,2019,4,sex,Hombre,72228.0
+2020-Q1,2020,1,sex,Hombre,72981.0
+2020-Q2,2020,2,sex,Hombre,42092.0
+2020-Q3,2020,3,sex,Hombre,49106.0
+2020-Q4,2020,4,sex,Hombre,53493.0
+2021-Q1,2021,1,sex,Hombre,55467.0
+2021-Q2,2021,2,sex,Hombre,66559.0
+2021-Q3,2021,3,sex,Hombre,71138.0
+2021-Q4,2021,4,sex,Hombre,65222.0
+2022-Q1,2022,1,sex,Hombre,77431.0
+2022-Q2,2022,2,sex,Hombre,76193.0
+2022-Q3,2022,3,sex,Hombre,74219.0
+2022-Q4,2022,4,sex,Hombre,70146.0
+2023-Q1,2023,1,sex,Hombre,73841.0
+2023-Q2,2023,2,sex,Hombre,71279.0
+2023-Q3,2023,3,sex,Hombre,81701.0
+2023-Q4,2023,4,sex,Hombre,80644.0
+2024-Q1,2024,1,sex,Hombre,73583.0
+2024-Q2,2024,2,sex,Hombre,93775.0
+2024-Q3,2024,3,sex,Hombre,89027.0
+2024-Q4,2024,4,sex,Hombre,88548.0
+2025-Q1,2025,1,sex,Hombre,82376.0
+2025-Q2,2025,2,sex,Hombre,66575.0
+2025-Q3,2025,3,sex,Hombre,79555.0
+2025-Q4,2025,4,sex,Hombre,74336.0
+2026-Q1,2026,1,sex,Hombre,78981.0
+2010-Q3,2010,3,sex,Mujer,63784.0
+2010-Q4,2010,4,sex,Mujer,57662.0
+2011-Q1,2011,1,sex,Mujer,57366.0
+2011-Q2,2011,2,sex,Mujer,54824.0
+2011-Q3,2011,3,sex,Mujer,64914.0
+2011-Q4,2011,4,sex,Mujer,61996.0
+2012-Q1,2012,1,sex,Mujer,65174.0
+2012-Q2,2012,2,sex,Mujer,56990.0
+2012-Q3,2012,3,sex,Mujer,60943.0
+2012-Q4,2012,4,sex,Mujer,58511.0
+2013-Q1,2013,1,sex,Mujer,66453.0
+2013-Q2,2013,2,sex,Mujer,69503.0
+2013-Q3,2013,3,sex,Mujer,80750.0
+2013-Q4,2013,4,sex,Mujer,81351.0
+2014-Q1,2014,1,sex,Mujer,80219.0
+2014-Q2,2014,2,sex,Mujer,77007.0
+2014-Q3,2014,3,sex,Mujer,81522.0
+2014-Q4,2014,4,sex,Mujer,81799.0
+2015-Q1,2015,1,sex,Mujer,78963.0
+2015-Q2,2015,2,sex,Mujer,85441.0
+2015-Q3,2015,3,sex,Mujer,76569.0
+2015-Q4,2015,4,sex,Mujer,82492.0
+2016-Q1,2016,1,sex,Mujer,81178.0
+2016-Q2,2016,2,sex,Mujer,72463.0
+2016-Q3,2016,3,sex,Mujer,66013.0
+2016-Q4,2016,4,sex,Mujer,77299.0
+2017-Q1,2017,1,sex,Mujer,78410.0
+2017-Q2,2017,2,sex,Mujer,86776.0
+2017-Q3,2017,3,sex,Mujer,86177.0
+2017-Q4,2017,4,sex,Mujer,74016.0
+2018-Q1,2018,1,sex,Mujer,77773.0
+2018-Q2,2018,2,sex,Mujer,94901.0
+2018-Q3,2018,3,sex,Mujer,92199.0
+2018-Q4,2018,4,sex,Mujer,86453.0
+2019-Q1,2019,1,sex,Mujer,90904.0
+2019-Q2,2019,2,sex,Mujer,100681.0
+2019-Q3,2019,3,sex,Mujer,92889.0
+2019-Q4,2019,4,sex,Mujer,95195.0
+2020-Q1,2020,1,sex,Mujer,98041.0
+2020-Q2,2020,2,sex,Mujer,43180.0
+2020-Q3,2020,3,sex,Mujer,73065.0
+2020-Q4,2020,4,sex,Mujer,78322.0
+2021-Q1,2021,1,sex,Mujer,84487.0
+2021-Q2,2021,2,sex,Mujer,86097.0
+2021-Q3,2021,3,sex,Mujer,86869.0
+2021-Q4,2021,4,sex,Mujer,86094.0
+2022-Q1,2022,1,sex,Mujer,93920.0
+2022-Q2,2022,2,sex,Mujer,98470.0
+2022-Q3,2022,3,sex,Mujer,90481.0
+2022-Q4,2022,4,sex,Mujer,95961.0
+2023-Q1,2023,1,sex,Mujer,84969.0
+2023-Q2,2023,2,sex,Mujer,79771.0
+2023-Q3,2023,3,sex,Mujer,93529.0
+2023-Q4,2023,4,sex,Mujer,87338.0
+2024-Q1,2024,1,sex,Mujer,98962.0
+2024-Q2,2024,2,sex,Mujer,94023.0
+2024-Q3,2024,3,sex,Mujer,100066.0
+2024-Q4,2024,4,sex,Mujer,94078.0
+2025-Q1,2025,1,sex,Mujer,90831.0
+2025-Q2,2025,2,sex,Mujer,98250.0
+2025-Q3,2025,3,sex,Mujer,87368.0
+2025-Q4,2025,4,sex,Mujer,86871.0
+2026-Q1,2026,1,sex,Mujer,84583.0
+2010-Q3,2010,3,zone,Urbana,105469.0
+2010-Q4,2010,4,zone,Urbana,100129.0
+2011-Q1,2011,1,zone,Urbana,85106.0
+2011-Q2,2011,2,zone,Urbana,84216.0
+2011-Q3,2011,3,zone,Urbana,99481.0
+2011-Q4,2011,4,zone,Urbana,104712.0
+2012-Q1,2012,1,zone,Urbana,107957.0
+2012-Q2,2012,2,zone,Urbana,100502.0
+2012-Q3,2012,3,zone,Urbana,96494.0
+2012-Q4,2012,4,zone,Urbana,101566.0
+2013-Q1,2013,1,zone,Urbana,119749.0
+2013-Q2,2013,2,zone,Urbana,108150.0
+2013-Q3,2013,3,zone,Urbana,117116.0
+2013-Q4,2013,4,zone,Urbana,122700.0
+2014-Q1,2014,1,zone,Urbana,107339.0
+2014-Q2,2014,2,zone,Urbana,118234.0
+2014-Q3,2014,3,zone,Urbana,114978.0
+2014-Q4,2014,4,zone,Urbana,117979.0
+2015-Q1,2015,1,zone,Urbana,116181.0
+2015-Q2,2015,2,zone,Urbana,121104.0
+2015-Q3,2015,3,zone,Urbana,119883.0
+2015-Q4,2015,4,zone,Urbana,131594.0
+2016-Q1,2016,1,zone,Urbana,120173.0
+2016-Q2,2016,2,zone,Urbana,108523.0
+2016-Q3,2016,3,zone,Urbana,106506.0
+2016-Q4,2016,4,zone,Urbana,121485.0
+2017-Q1,2017,1,zone,Urbana,120057.0
+2017-Q2,2017,2,zone,Urbana,119390.0
+2017-Q3,2017,3,zone,Urbana,120567.0
+2017-Q4,2017,4,zone,Urbana,105420.0
+2018-Q1,2018,1,zone,Urbana,106965.0
+2018-Q2,2018,2,zone,Urbana,128335.0
+2018-Q3,2018,3,zone,Urbana,120358.0
+2018-Q4,2018,4,zone,Urbana,117404.0
+2019-Q1,2019,1,zone,Urbana,125991.0
+2019-Q2,2019,2,zone,Urbana,134188.0
+2019-Q3,2019,3,zone,Urbana,130724.0
+2019-Q4,2019,4,zone,Urbana,127132.0
+2020-Q1,2020,1,zone,Urbana,129577.0
+2020-Q2,2020,2,zone,Urbana,62406.0
+2020-Q3,2020,3,zone,Urbana,95630.0
+2020-Q4,2020,4,zone,Urbana,102473.0
+2021-Q1,2021,1,zone,Urbana,102932.0
+2021-Q2,2021,2,zone,Urbana,115944.0
+2021-Q3,2021,3,zone,Urbana,124257.0
+2021-Q4,2021,4,zone,Urbana,115796.0
+2022-Q1,2022,1,zone,Urbana,132093.0
+2022-Q2,2022,2,zone,Urbana,133316.0
+2022-Q3,2022,3,zone,Urbana,118765.0
+2022-Q4,2022,4,zone,Urbana,119560.0
+2023-Q1,2023,1,zone,Urbana,111967.0
+2023-Q2,2023,2,zone,Urbana,106309.0
+2023-Q3,2023,3,zone,Urbana,132759.0
+2023-Q4,2023,4,zone,Urbana,128000.0
+2024-Q1,2024,1,zone,Urbana,129126.0
+2024-Q2,2024,2,zone,Urbana,144694.0
+2024-Q3,2024,3,zone,Urbana,142181.0
+2024-Q4,2024,4,zone,Urbana,141678.0
+2025-Q1,2025,1,zone,Urbana,129566.0
+2025-Q2,2025,2,zone,Urbana,118361.0
+2025-Q3,2025,3,zone,Urbana,121715.0
+2025-Q4,2025,4,zone,Urbana,113402.0
+2026-Q1,2026,1,zone,Urbana,113658.0
+2010-Q3,2010,3,zone,Rural,24614.0
+2010-Q4,2010,4,zone,Rural,22249.0
+2011-Q1,2011,1,zone,Rural,26641.0
+2011-Q2,2011,2,zone,Rural,26672.0
+2011-Q3,2011,3,zone,Rural,26443.0
+2011-Q4,2011,4,zone,Rural,27065.0
+2012-Q1,2012,1,zone,Rural,28154.0
+2012-Q2,2012,2,zone,Rural,27670.0
+2012-Q3,2012,3,zone,Rural,29713.0
+2012-Q4,2012,4,zone,Rural,29695.0
+2013-Q1,2013,1,zone,Rural,31320.0
+2013-Q2,2013,2,zone,Rural,35624.0
+2013-Q3,2013,3,zone,Rural,38214.0
+2013-Q4,2013,4,zone,Rural,35449.0
+2014-Q1,2014,1,zone,Rural,36720.0
+2014-Q2,2014,2,zone,Rural,34990.0
+2014-Q3,2014,3,zone,Rural,33840.0
+2014-Q4,2014,4,zone,Rural,32749.0
+2015-Q1,2015,1,zone,Rural,35716.0
+2015-Q2,2015,2,zone,Rural,34597.0
+2015-Q3,2015,3,zone,Rural,32369.0
+2015-Q4,2015,4,zone,Rural,34850.0
+2016-Q1,2016,1,zone,Rural,39062.0
+2016-Q2,2016,2,zone,Rural,35912.0
+2016-Q3,2016,3,zone,Rural,38025.0
+2016-Q4,2016,4,zone,Rural,40018.0
+2017-Q1,2017,1,zone,Rural,40916.0
+2017-Q2,2017,2,zone,Rural,40621.0
+2017-Q3,2017,3,zone,Rural,36423.0
+2017-Q4,2017,4,zone,Rural,37791.0
+2018-Q1,2018,1,zone,Rural,40639.0
+2018-Q2,2018,2,zone,Rural,39855.0
+2018-Q3,2018,3,zone,Rural,47457.0
+2018-Q4,2018,4,zone,Rural,42889.0
+2019-Q1,2019,1,zone,Rural,44153.0
+2019-Q2,2019,2,zone,Rural,42044.0
+2019-Q3,2019,3,zone,Rural,38955.0
+2019-Q4,2019,4,zone,Rural,40291.0
+2020-Q1,2020,1,zone,Rural,41445.0
+2020-Q2,2020,2,zone,Rural,22866.0
+2020-Q3,2020,3,zone,Rural,26541.0
+2020-Q4,2020,4,zone,Rural,29342.0
+2021-Q1,2021,1,zone,Rural,37022.0
+2021-Q2,2021,2,zone,Rural,36712.0
+2021-Q3,2021,3,zone,Rural,33750.0
+2021-Q4,2021,4,zone,Rural,35520.0
+2022-Q1,2022,1,zone,Rural,39258.0
+2022-Q2,2022,2,zone,Rural,41347.0
+2022-Q3,2022,3,zone,Rural,45935.0
+2022-Q4,2022,4,zone,Rural,46547.0
+2023-Q1,2023,1,zone,Rural,46843.0
+2023-Q2,2023,2,zone,Rural,44741.0
+2023-Q3,2023,3,zone,Rural,42471.0
+2023-Q4,2023,4,zone,Rural,39982.0
+2024-Q1,2024,1,zone,Rural,43419.0
+2024-Q2,2024,2,zone,Rural,43104.0
+2024-Q3,2024,3,zone,Rural,46912.0
+2024-Q4,2024,4,zone,Rural,40948.0
+2025-Q1,2025,1,zone,Rural,43641.0
+2025-Q2,2025,2,zone,Rural,46464.0
+2025-Q3,2025,3,zone,Rural,45208.0
+2025-Q4,2025,4,zone,Rural,47805.0
+2026-Q1,2026,1,zone,Rural,49906.0
+2010-Q3,2010,3,age_group,15 a 24 años,40643.0
+2010-Q4,2010,4,age_group,15 a 24 años,35717.0
+2011-Q1,2011,1,age_group,15 a 24 años,24744.0
+2011-Q2,2011,2,age_group,15 a 24 años,25216.0
+2011-Q3,2011,3,age_group,15 a 24 años,29651.0
+2011-Q4,2011,4,age_group,15 a 24 años,31543.0
+2012-Q1,2012,1,age_group,15 a 24 años,27084.0
+2012-Q2,2012,2,age_group,15 a 24 años,23744.0
+2012-Q3,2012,3,age_group,15 a 24 años,29697.0
+2012-Q4,2012,4,age_group,15 a 24 años,28375.0
+2013-Q1,2013,1,age_group,15 a 24 años,32506.0
+2013-Q2,2013,2,age_group,15 a 24 años,34097.0
+2013-Q3,2013,3,age_group,15 a 24 años,33783.0
+2013-Q4,2013,4,age_group,15 a 24 años,28332.0
+2014-Q1,2014,1,age_group,15 a 24 años,22691.0
+2014-Q2,2014,2,age_group,15 a 24 años,24031.0
+2014-Q3,2014,3,age_group,15 a 24 años,26498.0
+2014-Q4,2014,4,age_group,15 a 24 años,26362.0
+2015-Q1,2015,1,age_group,15 a 24 años,26771.0
+2015-Q2,2015,2,age_group,15 a 24 años,29687.0
+2015-Q3,2015,3,age_group,15 a 24 años,28971.0
+2015-Q4,2015,4,age_group,15 a 24 años,28459.0
+2016-Q1,2016,1,age_group,15 a 24 años,28592.0
+2016-Q2,2016,2,age_group,15 a 24 años,29821.0
+2016-Q3,2016,3,age_group,15 a 24 años,26381.0
+2016-Q4,2016,4,age_group,15 a 24 años,32674.0
+2017-Q1,2017,1,age_group,15 a 24 años,31138.0
+2017-Q2,2017,2,age_group,15 a 24 años,28708.0
+2017-Q3,2017,3,age_group,15 a 24 años,23677.0
+2017-Q4,2017,4,age_group,15 a 24 años,17822.0
+2018-Q1,2018,1,age_group,15 a 24 años,21390.0
+2018-Q2,2018,2,age_group,15 a 24 años,26364.0
+2018-Q3,2018,3,age_group,15 a 24 años,31269.0
+2018-Q4,2018,4,age_group,15 a 24 años,21246.0
+2019-Q1,2019,1,age_group,15 a 24 años,22425.0
+2019-Q2,2019,2,age_group,15 a 24 años,21983.0
+2019-Q3,2019,3,age_group,15 a 24 años,27702.0
+2019-Q4,2019,4,age_group,15 a 24 años,26922.0
+2020-Q1,2020,1,age_group,15 a 24 años,25805.0
+2020-Q2,2020,2,age_group,15 a 24 años,9132.0
+2020-Q3,2020,3,age_group,15 a 24 años,12542.0
+2020-Q4,2020,4,age_group,15 a 24 años,15917.0
+2021-Q1,2021,1,age_group,15 a 24 años,19539.0
+2021-Q2,2021,2,age_group,15 a 24 años,20025.0
+2021-Q3,2021,3,age_group,15 a 24 años,15708.0
+2021-Q4,2021,4,age_group,15 a 24 años,17379.0
+2022-Q1,2022,1,age_group,15 a 24 años,19800.0
+2022-Q2,2022,2,age_group,15 a 24 años,23250.0
+2022-Q3,2022,3,age_group,15 a 24 años,22934.0
+2022-Q4,2022,4,age_group,15 a 24 años,26205.0
+2023-Q1,2023,1,age_group,15 a 24 años,27885.0
+2023-Q2,2023,2,age_group,15 a 24 años,28461.0
+2023-Q3,2023,3,age_group,15 a 24 años,32361.0
+2023-Q4,2023,4,age_group,15 a 24 años,27582.0
+2024-Q1,2024,1,age_group,15 a 24 años,33232.0
+2024-Q2,2024,2,age_group,15 a 24 años,33259.0
+2024-Q3,2024,3,age_group,15 a 24 años,24801.0
+2024-Q4,2024,4,age_group,15 a 24 años,24442.0
+2025-Q1,2025,1,age_group,15 a 24 años,24244.0
+2025-Q2,2025,2,age_group,15 a 24 años,22808.0
+2025-Q3,2025,3,age_group,15 a 24 años,23435.0
+2025-Q4,2025,4,age_group,15 a 24 años,22200.0
+2026-Q1,2026,1,age_group,15 a 24 años,23481.0
+2010-Q3,2010,3,age_group,25 a 34 años,31526.0
+2010-Q4,2010,4,age_group,25 a 34 años,39003.0
+2011-Q1,2011,1,age_group,25 a 34 años,36048.0
+2011-Q2,2011,2,age_group,25 a 34 años,32809.0
+2011-Q3,2011,3,age_group,25 a 34 años,35727.0
+2011-Q4,2011,4,age_group,25 a 34 años,33322.0
+2012-Q1,2012,1,age_group,25 a 34 años,38299.0
+2012-Q2,2012,2,age_group,25 a 34 años,35653.0
+2012-Q3,2012,3,age_group,25 a 34 años,40191.0
+2012-Q4,2012,4,age_group,25 a 34 años,38674.0
+2013-Q1,2013,1,age_group,25 a 34 años,40175.0
+2013-Q2,2013,2,age_group,25 a 34 años,39656.0
+2013-Q3,2013,3,age_group,25 a 34 años,36645.0
+2013-Q4,2013,4,age_group,25 a 34 años,45205.0
+2014-Q1,2014,1,age_group,25 a 34 años,45092.0
+2014-Q2,2014,2,age_group,25 a 34 años,38963.0
+2014-Q3,2014,3,age_group,25 a 34 años,40137.0
+2014-Q4,2014,4,age_group,25 a 34 años,45554.0
+2015-Q1,2015,1,age_group,25 a 34 años,43545.0
+2015-Q2,2015,2,age_group,25 a 34 años,39019.0
+2015-Q3,2015,3,age_group,25 a 34 años,40375.0
+2015-Q4,2015,4,age_group,25 a 34 años,47065.0
+2016-Q1,2016,1,age_group,25 a 34 años,46149.0
+2016-Q2,2016,2,age_group,25 a 34 años,41366.0
+2016-Q3,2016,3,age_group,25 a 34 años,43590.0
+2016-Q4,2016,4,age_group,25 a 34 años,44224.0
+2017-Q1,2017,1,age_group,25 a 34 años,46078.0
+2017-Q2,2017,2,age_group,25 a 34 años,47303.0
+2017-Q3,2017,3,age_group,25 a 34 años,47890.0
+2017-Q4,2017,4,age_group,25 a 34 años,36527.0
+2018-Q1,2018,1,age_group,25 a 34 años,39359.0
+2018-Q2,2018,2,age_group,25 a 34 años,31989.0
+2018-Q3,2018,3,age_group,25 a 34 años,43316.0
+2018-Q4,2018,4,age_group,25 a 34 años,49186.0
+2019-Q1,2019,1,age_group,25 a 34 años,49563.0
+2019-Q2,2019,2,age_group,25 a 34 años,53341.0
+2019-Q3,2019,3,age_group,25 a 34 años,45235.0
+2019-Q4,2019,4,age_group,25 a 34 años,45354.0
+2020-Q1,2020,1,age_group,25 a 34 años,37650.0
+2020-Q2,2020,2,age_group,25 a 34 años,18948.0
+2020-Q3,2020,3,age_group,25 a 34 años,24610.0
+2020-Q4,2020,4,age_group,25 a 34 años,34098.0
+2021-Q1,2021,1,age_group,25 a 34 años,32653.0
+2021-Q2,2021,2,age_group,25 a 34 años,34430.0
+2021-Q3,2021,3,age_group,25 a 34 años,45860.0
+2021-Q4,2021,4,age_group,25 a 34 años,43512.0
+2022-Q1,2022,1,age_group,25 a 34 años,43409.0
+2022-Q2,2022,2,age_group,25 a 34 años,45623.0
+2022-Q3,2022,3,age_group,25 a 34 años,41762.0
+2022-Q4,2022,4,age_group,25 a 34 años,44644.0
+2023-Q1,2023,1,age_group,25 a 34 años,34303.0
+2023-Q2,2023,2,age_group,25 a 34 años,31782.0
+2023-Q3,2023,3,age_group,25 a 34 años,36263.0
+2023-Q4,2023,4,age_group,25 a 34 años,38742.0
+2024-Q1,2024,1,age_group,25 a 34 años,44367.0
+2024-Q2,2024,2,age_group,25 a 34 años,45736.0
+2024-Q3,2024,3,age_group,25 a 34 años,43941.0
+2024-Q4,2024,4,age_group,25 a 34 años,48856.0
+2025-Q1,2025,1,age_group,25 a 34 años,43685.0
+2025-Q2,2025,2,age_group,25 a 34 años,38458.0
+2025-Q3,2025,3,age_group,25 a 34 años,33574.0
+2025-Q4,2025,4,age_group,25 a 34 años,34821.0
+2026-Q1,2026,1,age_group,25 a 34 años,31159.0
+2010-Q3,2010,3,age_group,35 a 44 años,25821.0
+2010-Q4,2010,4,age_group,35 a 44 años,22090.0
+2011-Q1,2011,1,age_group,35 a 44 años,24098.0
+2011-Q2,2011,2,age_group,35 a 44 años,24046.0
+2011-Q3,2011,3,age_group,35 a 44 años,30889.0
+2011-Q4,2011,4,age_group,35 a 44 años,26075.0
+2012-Q1,2012,1,age_group,35 a 44 años,25654.0
+2012-Q2,2012,2,age_group,35 a 44 años,26890.0
+2012-Q3,2012,3,age_group,35 a 44 años,20353.0
+2012-Q4,2012,4,age_group,35 a 44 años,25299.0
+2013-Q1,2013,1,age_group,35 a 44 años,27538.0
+2013-Q2,2013,2,age_group,35 a 44 años,23240.0
+2013-Q3,2013,3,age_group,35 a 44 años,25348.0
+2013-Q4,2013,4,age_group,35 a 44 años,23389.0
+2014-Q1,2014,1,age_group,35 a 44 años,33382.0
+2014-Q2,2014,2,age_group,35 a 44 años,36811.0
+2014-Q3,2014,3,age_group,35 a 44 años,36391.0
+2014-Q4,2014,4,age_group,35 a 44 años,31040.0
+2015-Q1,2015,1,age_group,35 a 44 años,36750.0
+2015-Q2,2015,2,age_group,35 a 44 años,36227.0
+2015-Q3,2015,3,age_group,35 a 44 años,33447.0
+2015-Q4,2015,4,age_group,35 a 44 años,39197.0
+2016-Q1,2016,1,age_group,35 a 44 años,40060.0
+2016-Q2,2016,2,age_group,35 a 44 años,35552.0
+2016-Q3,2016,3,age_group,35 a 44 años,34027.0
+2016-Q4,2016,4,age_group,35 a 44 años,35106.0
+2017-Q1,2017,1,age_group,35 a 44 años,37154.0
+2017-Q2,2017,2,age_group,35 a 44 años,39331.0
+2017-Q3,2017,3,age_group,35 a 44 años,34268.0
+2017-Q4,2017,4,age_group,35 a 44 años,38125.0
+2018-Q1,2018,1,age_group,35 a 44 años,37838.0
+2018-Q2,2018,2,age_group,35 a 44 años,45843.0
+2018-Q3,2018,3,age_group,35 a 44 años,40819.0
+2018-Q4,2018,4,age_group,35 a 44 años,33247.0
+2019-Q1,2019,1,age_group,35 a 44 años,43388.0
+2019-Q2,2019,2,age_group,35 a 44 años,34867.0
+2019-Q3,2019,3,age_group,35 a 44 años,40260.0
+2019-Q4,2019,4,age_group,35 a 44 años,37927.0
+2020-Q1,2020,1,age_group,35 a 44 años,46005.0
+2020-Q2,2020,2,age_group,35 a 44 años,28409.0
+2020-Q3,2020,3,age_group,35 a 44 años,38891.0
+2020-Q4,2020,4,age_group,35 a 44 años,40588.0
+2021-Q1,2021,1,age_group,35 a 44 años,36272.0
+2021-Q2,2021,2,age_group,35 a 44 años,42575.0
+2021-Q3,2021,3,age_group,35 a 44 años,40972.0
+2021-Q4,2021,4,age_group,35 a 44 años,37421.0
+2022-Q1,2022,1,age_group,35 a 44 años,45520.0
+2022-Q2,2022,2,age_group,35 a 44 años,43131.0
+2022-Q3,2022,3,age_group,35 a 44 años,42707.0
+2022-Q4,2022,4,age_group,35 a 44 años,42696.0
+2023-Q1,2023,1,age_group,35 a 44 años,43820.0
+2023-Q2,2023,2,age_group,35 a 44 años,46346.0
+2023-Q3,2023,3,age_group,35 a 44 años,44957.0
+2023-Q4,2023,4,age_group,35 a 44 años,42192.0
+2024-Q1,2024,1,age_group,35 a 44 años,40334.0
+2024-Q2,2024,2,age_group,35 a 44 años,42678.0
+2024-Q3,2024,3,age_group,35 a 44 años,52346.0
+2024-Q4,2024,4,age_group,35 a 44 años,44606.0
+2025-Q1,2025,1,age_group,35 a 44 años,49182.0
+2025-Q2,2025,2,age_group,35 a 44 años,47135.0
+2025-Q3,2025,3,age_group,35 a 44 años,51224.0
+2025-Q4,2025,4,age_group,35 a 44 años,45821.0
+2026-Q1,2026,1,age_group,35 a 44 años,49075.0
+2010-Q3,2010,3,age_group,45 a 59 años,26298.0
+2010-Q4,2010,4,age_group,45 a 59 años,21621.0
+2011-Q1,2011,1,age_group,45 a 59 años,23742.0
+2011-Q2,2011,2,age_group,45 a 59 años,24998.0
+2011-Q3,2011,3,age_group,45 a 59 años,26756.0
+2011-Q4,2011,4,age_group,45 a 59 años,33315.0
+2012-Q1,2012,1,age_group,45 a 59 años,37437.0
+2012-Q2,2012,2,age_group,45 a 59 años,30774.0
+2012-Q3,2012,3,age_group,45 a 59 años,26276.0
+2012-Q4,2012,4,age_group,45 a 59 años,27577.0
+2013-Q1,2013,1,age_group,45 a 59 años,39795.0
+2013-Q2,2013,2,age_group,45 a 59 años,34817.0
+2013-Q3,2013,3,age_group,45 a 59 años,40181.0
+2013-Q4,2013,4,age_group,45 a 59 años,43043.0
+2014-Q1,2014,1,age_group,45 a 59 años,34048.0
+2014-Q2,2014,2,age_group,45 a 59 años,37965.0
+2014-Q3,2014,3,age_group,45 a 59 años,36875.0
+2014-Q4,2014,4,age_group,45 a 59 años,37981.0
+2015-Q1,2015,1,age_group,45 a 59 años,37810.0
+2015-Q2,2015,2,age_group,45 a 59 años,42994.0
+2015-Q3,2015,3,age_group,45 a 59 años,38516.0
+2015-Q4,2015,4,age_group,45 a 59 años,41329.0
+2016-Q1,2016,1,age_group,45 a 59 años,36453.0
+2016-Q2,2016,2,age_group,45 a 59 años,29100.0
+2016-Q3,2016,3,age_group,45 a 59 años,30343.0
+2016-Q4,2016,4,age_group,45 a 59 años,34742.0
+2017-Q1,2017,1,age_group,45 a 59 años,36348.0
+2017-Q2,2017,2,age_group,45 a 59 años,37710.0
+2017-Q3,2017,3,age_group,45 a 59 años,36739.0
+2017-Q4,2017,4,age_group,45 a 59 años,41025.0
+2018-Q1,2018,1,age_group,45 a 59 años,39664.0
+2018-Q2,2018,2,age_group,45 a 59 años,46726.0
+2018-Q3,2018,3,age_group,45 a 59 años,36978.0
+2018-Q4,2018,4,age_group,45 a 59 años,39970.0
+2019-Q1,2019,1,age_group,45 a 59 años,39916.0
+2019-Q2,2019,2,age_group,45 a 59 años,49923.0
+2019-Q3,2019,3,age_group,45 a 59 años,45172.0
+2019-Q4,2019,4,age_group,45 a 59 años,42270.0
+2020-Q1,2020,1,age_group,45 a 59 años,45862.0
+2020-Q2,2020,2,age_group,45 a 59 años,21235.0
+2020-Q3,2020,3,age_group,45 a 59 años,31588.0
+2020-Q4,2020,4,age_group,45 a 59 años,28152.0
+2021-Q1,2021,1,age_group,45 a 59 años,36893.0
+2021-Q2,2021,2,age_group,45 a 59 años,40617.0
+2021-Q3,2021,3,age_group,45 a 59 años,41368.0
+2021-Q4,2021,4,age_group,45 a 59 años,42120.0
+2022-Q1,2022,1,age_group,45 a 59 años,47391.0
+2022-Q2,2022,2,age_group,45 a 59 años,46632.0
+2022-Q3,2022,3,age_group,45 a 59 años,44359.0
+2022-Q4,2022,4,age_group,45 a 59 años,41446.0
+2023-Q1,2023,1,age_group,45 a 59 años,41347.0
+2023-Q2,2023,2,age_group,45 a 59 años,31880.0
+2023-Q3,2023,3,age_group,45 a 59 años,44070.0
+2023-Q4,2023,4,age_group,45 a 59 años,44359.0
+2024-Q1,2024,1,age_group,45 a 59 años,42169.0
+2024-Q2,2024,2,age_group,45 a 59 años,49611.0
+2024-Q3,2024,3,age_group,45 a 59 años,50515.0
+2024-Q4,2024,4,age_group,45 a 59 años,46297.0
+2025-Q1,2025,1,age_group,45 a 59 años,33855.0
+2025-Q2,2025,2,age_group,45 a 59 años,37878.0
+2025-Q3,2025,3,age_group,45 a 59 años,36184.0
+2025-Q4,2025,4,age_group,45 a 59 años,42930.0
+2026-Q1,2026,1,age_group,45 a 59 años,47025.0
+2010-Q3,2010,3,age_group,60 y más,5546.0
+2010-Q4,2010,4,age_group,60 y más,2676.0
+2011-Q1,2011,1,age_group,60 y más,2975.0
+2011-Q2,2011,2,age_group,60 y más,3651.0
+2011-Q3,2011,3,age_group,60 y más,2826.0
+2011-Q4,2011,4,age_group,60 y más,7430.0
+2012-Q1,2012,1,age_group,60 y más,7569.0
+2012-Q2,2012,2,age_group,60 y más,10978.0
+2012-Q3,2012,3,age_group,60 y más,9690.0
+2012-Q4,2012,4,age_group,60 y más,11336.0
+2013-Q1,2013,1,age_group,60 y más,11055.0
+2013-Q2,2013,2,age_group,60 y más,11964.0
+2013-Q3,2013,3,age_group,60 y más,19373.0
+2013-Q4,2013,4,age_group,60 y más,18180.0
+2014-Q1,2014,1,age_group,60 y más,8846.0
+2014-Q2,2014,2,age_group,60 y más,15454.0
+2014-Q3,2014,3,age_group,60 y más,8917.0
+2014-Q4,2014,4,age_group,60 y más,9791.0
+2015-Q1,2015,1,age_group,60 y más,7021.0
+2015-Q2,2015,2,age_group,60 y más,7700.0
+2015-Q3,2015,3,age_group,60 y más,10877.0
+2015-Q4,2015,4,age_group,60 y más,10314.0
+2016-Q1,2016,1,age_group,60 y más,7981.0
+2016-Q2,2016,2,age_group,60 y más,8596.0
+2016-Q3,2016,3,age_group,60 y más,10190.0
+2016-Q4,2016,4,age_group,60 y más,14757.0
+2017-Q1,2017,1,age_group,60 y más,10255.0
+2017-Q2,2017,2,age_group,60 y más,6959.0
+2017-Q3,2017,3,age_group,60 y más,14416.0
+2017-Q4,2017,4,age_group,60 y más,9543.0
+2018-Q1,2018,1,age_group,60 y más,9353.0
+2018-Q2,2018,2,age_group,60 y más,17268.0
+2018-Q3,2018,3,age_group,60 y más,15433.0
+2018-Q4,2018,4,age_group,60 y más,16520.0
+2019-Q1,2019,1,age_group,60 y más,14748.0
+2019-Q2,2019,2,age_group,60 y más,15852.0
+2019-Q3,2019,3,age_group,60 y más,10464.0
+2019-Q4,2019,4,age_group,60 y más,14875.0
+2020-Q1,2020,1,age_group,60 y más,15535.0
+2020-Q2,2020,2,age_group,60 y más,7548.0
+2020-Q3,2020,3,age_group,60 y más,14540.0
+2020-Q4,2020,4,age_group,60 y más,12632.0
+2021-Q1,2021,1,age_group,60 y más,14597.0
+2021-Q2,2021,2,age_group,60 y más,15009.0
+2021-Q3,2021,3,age_group,60 y más,14099.0
+2021-Q4,2021,4,age_group,60 y más,10884.0
+2022-Q1,2022,1,age_group,60 y más,15231.0
+2022-Q2,2022,2,age_group,60 y más,16027.0
+2022-Q3,2022,3,age_group,60 y más,12938.0
+2022-Q4,2022,4,age_group,60 y más,11116.0
+2023-Q1,2023,1,age_group,60 y más,11455.0
+2023-Q2,2023,2,age_group,60 y más,12581.0
+2023-Q3,2023,3,age_group,60 y más,17579.0
+2023-Q4,2023,4,age_group,60 y más,15107.0
+2024-Q1,2024,1,age_group,60 y más,12443.0
+2024-Q2,2024,2,age_group,60 y más,16420.0
+2024-Q3,2024,3,age_group,60 y más,17490.0
+2024-Q4,2024,4,age_group,60 y más,18425.0
+2025-Q1,2025,1,age_group,60 y más,22241.0
+2025-Q2,2025,2,age_group,60 y más,18370.0
+2025-Q3,2025,3,age_group,60 y más,22506.0
+2025-Q4,2025,4,age_group,60 y más,15435.0
+2026-Q1,2026,1,age_group,60 y más,12824.0
+2010-Q3,2010,3,age_group,No especificado,249.0
+2010-Q4,2010,4,age_group,No especificado,1271.0
+2011-Q1,2011,1,age_group,No especificado,140.0
+2011-Q2,2011,2,age_group,No especificado,168.0
+2011-Q3,2011,3,age_group,No especificado,75.0
+2011-Q4,2011,4,age_group,No especificado,92.0
+2012-Q1,2012,1,age_group,No especificado,68.0
+2012-Q2,2012,2,age_group,No especificado,133.0
+2012-Q3,2012,3,age_group,No especificado,
+2012-Q4,2012,4,age_group,No especificado,
+2013-Q1,2013,1,age_group,No especificado,
+2013-Q2,2013,2,age_group,No especificado,
+2013-Q3,2013,3,age_group,No especificado,
+2013-Q4,2013,4,age_group,No especificado,
+2014-Q1,2014,1,age_group,No especificado,
+2014-Q2,2014,2,age_group,No especificado,
+2014-Q3,2014,3,age_group,No especificado,
+2014-Q4,2014,4,age_group,No especificado,
+2015-Q1,2015,1,age_group,No especificado,
+2015-Q2,2015,2,age_group,No especificado,74.0
+2015-Q3,2015,3,age_group,No especificado,66.0
+2015-Q4,2015,4,age_group,No especificado,80.0
+2016-Q1,2016,1,age_group,No especificado,
+2016-Q2,2016,2,age_group,No especificado,
+2016-Q3,2016,3,age_group,No especificado,
+2016-Q4,2016,4,age_group,No especificado,
+2017-Q1,2017,1,age_group,No especificado,
+2017-Q2,2017,2,age_group,No especificado,
+2017-Q3,2017,3,age_group,No especificado,
+2017-Q4,2017,4,age_group,No especificado,169.0
+2018-Q1,2018,1,age_group,No especificado,
+2018-Q2,2018,2,age_group,No especificado,
+2018-Q3,2018,3,age_group,No especificado,
+2018-Q4,2018,4,age_group,No especificado,124.0
+2019-Q1,2019,1,age_group,No especificado,104.0
+2019-Q2,2019,2,age_group,No especificado,266.0
+2019-Q3,2019,3,age_group,No especificado,846.0
+2019-Q4,2019,4,age_group,No especificado,75.0
+2020-Q1,2020,1,age_group,No especificado,165.0
+2020-Q2,2020,2,age_group,No especificado,
+2020-Q3,2020,3,age_group,No especificado,
+2020-Q4,2020,4,age_group,No especificado,428.0
+2021-Q1,2021,1,age_group,No especificado,
+2021-Q2,2021,2,age_group,No especificado,
+2021-Q3,2021,3,age_group,No especificado,
+2021-Q4,2021,4,age_group,No especificado,
+2022-Q1,2022,1,age_group,No especificado,
+2022-Q2,2022,2,age_group,No especificado,
+2022-Q3,2022,3,age_group,No especificado,
+2022-Q4,2022,4,age_group,No especificado,
+2023-Q1,2023,1,age_group,No especificado,
+2023-Q2,2023,2,age_group,No especificado,
+2023-Q3,2023,3,age_group,No especificado,
+2023-Q4,2023,4,age_group,No especificado,
+2024-Q1,2024,1,age_group,No especificado,
+2024-Q2,2024,2,age_group,No especificado,94.0
+2024-Q3,2024,3,age_group,No especificado,
+2024-Q4,2024,4,age_group,No especificado,
+2025-Q1,2025,1,age_group,No especificado,
+2025-Q2,2025,2,age_group,No especificado,176.0
+2025-Q3,2025,3,age_group,No especificado,
+2025-Q4,2025,4,age_group,No especificado,
+2026-Q1,2026,1,age_group,No especificado,

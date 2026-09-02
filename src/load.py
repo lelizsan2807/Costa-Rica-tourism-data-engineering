@@ -1,6 +1,6 @@
-from pandas import pd
+import pandas as pd
 from config import OUTPUT_DIR, DATABASE_FILE
-from logging import logger
+import logging as logger
 import sqlite3
 
 def save_csv(

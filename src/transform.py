@@ -1,7 +1,5 @@
 import pandas as pd
-from logging import logger
-
-
+import logging as logger
 
 def clean_table(
     df: pd.DataFrame,
@@ -9,47 +7,78 @@ def clean_table(
 ) -> pd.DataFrame:
     """
     Clean and standardize extracted observations.
+
+    Rules:
+    - Remove unnecessary whitespace from text columns.
+    - Convert Excel "-" values to missing values.
+    - Convert observations to numeric values.
+    - Keep rows with missing values.
+    - Reject negative values.
+    - Store numeric observations as float.
     """
 
     logger.info("Cleaning %s", table_name)
 
+    # Work on a copy so the original DataFrame is not modified.
     df = df.copy()
 
-    # Standardize strings.
-    df["period"] = df["period"].astype(str).str.strip()
-    df["dimension"] = df["dimension"].astype(str).str.strip()
-    df["category"] = df["category"].astype(str).str.strip()
+    df["period"] = (
+        df["period"]
+        .astype(str)
+        .str.strip()
+    )
 
-    # Convert observations to numeric.
+    df["dimension"] = (
+        df["dimension"]
+        .astype(str)
+        .str.strip()
+    )
+
+    df["category"] = (
+        df["category"]
+        .astype(str)
+        .str.strip()
+    )
+
+    df["value"] = df["value"].replace("-", pd.NA)
+
     df["value"] = pd.to_numeric(
         df["value"],
         errors="coerce"
     )
 
-    # Remove observations that cannot be interpreted as numbers.
-    invalid_count = df["value"].isna().sum()
+    missing_count = df["value"].isna().sum()
 
-    if invalid_count > 0:
+    if missing_count > 0:
         logger.warning(
-            "%s: removing %d non-numeric observations",
+            "%s: found %d missing observations",
             table_name,
-            invalid_count
+            missing_count
         )
 
-        df = df.dropna(subset=["value"])
-
-    # Check negative values.
-    negative_count = (df["value"] < 0).sum()
+    negative_count = (
+        df["value"]
+        .dropna()
+        .lt(0)
+        .sum()
+    )
 
     if negative_count > 0:
         raise ValueError(
-            f"{table_name}: found {negative_count} negative values."
+            f"{table_name}: found "
+            f"{negative_count} negative values."
         )
 
-    # Preserve decimals where they exist.
     df["value"] = df["value"].astype(float)
 
+    logger.info(
+        "%s: cleaned %d observations",
+        table_name,
+        len(df)
+    )
+
     return df
+
 
 
 def create_period_dimension(periods: pd.DataFrame) -> pd.DataFrame:

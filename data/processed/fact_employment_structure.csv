@@ -1,0 +1,757 @@
+period,year,quarter,dimension,category,value
+2010-Q3,2010,3,overall,Total,130083.0
+2010-Q4,2010,4,overall,Total,122378.0
+2011-Q1,2011,1,overall,Total,111747.0
+2011-Q2,2011,2,overall,Total,110888.0
+2011-Q3,2011,3,overall,Total,125924.0
+2011-Q4,2011,4,overall,Total,131777.0
+2012-Q1,2012,1,overall,Total,136111.0
+2012-Q2,2012,2,overall,Total,128172.0
+2012-Q3,2012,3,overall,Total,126207.0
+2012-Q4,2012,4,overall,Total,131261.0
+2013-Q1,2013,1,overall,Total,151069.0
+2013-Q2,2013,2,overall,Total,143774.0
+2013-Q3,2013,3,overall,Total,155330.0
+2013-Q4,2013,4,overall,Total,158149.0
+2014-Q1,2014,1,overall,Total,144059.0
+2014-Q2,2014,2,overall,Total,153224.0
+2014-Q3,2014,3,overall,Total,148818.0
+2014-Q4,2014,4,overall,Total,150728.0
+2015-Q1,2015,1,overall,Total,151897.0
+2015-Q2,2015,2,overall,Total,155701.0
+2015-Q3,2015,3,overall,Total,152252.0
+2015-Q4,2015,4,overall,Total,166444.0
+2016-Q1,2016,1,overall,Total,159235.0
+2016-Q2,2016,2,overall,Total,144435.0
+2016-Q3,2016,3,overall,Total,144531.0
+2016-Q4,2016,4,overall,Total,161503.0
+2017-Q1,2017,1,overall,Total,160973.0
+2017-Q2,2017,2,overall,Total,160011.0
+2017-Q3,2017,3,overall,Total,156990.0
+2017-Q4,2017,4,overall,Total,143211.0
+2018-Q1,2018,1,overall,Total,147604.0
+2018-Q2,2018,2,overall,Total,168190.0
+2018-Q3,2018,3,overall,Total,167815.0
+2018-Q4,2018,4,overall,Total,160293.0
+2019-Q1,2019,1,overall,Total,170144.0
+2019-Q2,2019,2,overall,Total,176232.0
+2019-Q3,2019,3,overall,Total,169679.0
+2019-Q4,2019,4,overall,Total,167423.0
+2020-Q1,2020,1,overall,Total,171022.0
+2020-Q2,2020,2,overall,Total,85272.0
+2020-Q3,2020,3,overall,Total,122171.0
+2020-Q4,2020,4,overall,Total,131815.0
+2021-Q1,2021,1,overall,Total,139954.0
+2021-Q2,2021,2,overall,Total,152656.0
+2021-Q3,2021,3,overall,Total,158007.0
+2021-Q4,2021,4,overall,Total,151316.0
+2022-Q1,2022,1,overall,Total,171351.0
+2022-Q2,2022,2,overall,Total,174663.0
+2022-Q3,2022,3,overall,Total,164700.0
+2022-Q4,2022,4,overall,Total,166107.0
+2023-Q1,2023,1,overall,Total,158810.0
+2023-Q2,2023,2,overall,Total,151050.0
+2023-Q3,2023,3,overall,Total,175230.0
+2023-Q4,2023,4,overall,Total,167982.0
+2024-Q1,2024,1,overall,Total,172545.0
+2024-Q2,2024,2,overall,Total,187798.0
+2024-Q3,2024,3,overall,Total,189093.0
+2024-Q4,2024,4,overall,Total,182626.0
+2025-Q1,2025,1,overall,Total,173207.0
+2025-Q2,2025,2,overall,Total,164825.0
+2025-Q3,2025,3,overall,Total,166923.0
+2025-Q4,2025,4,overall,Total,161207.0
+2026-Q1,2026,1,overall,Total,163564.0
+2010-Q3,2010,3,employment_position,Dependiente,105061.0
+2010-Q4,2010,4,employment_position,Dependiente,107340.0
+2011-Q1,2011,1,employment_position,Dependiente,96126.0
+2011-Q2,2011,2,employment_position,Dependiente,94258.0
+2011-Q3,2011,3,employment_position,Dependiente,105603.0
+2011-Q4,2011,4,employment_position,Dependiente,110179.0
+2012-Q1,2012,1,employment_position,Dependiente,113380.0
+2012-Q2,2012,2,employment_position,Dependiente,100284.0
+2012-Q3,2012,3,employment_position,Dependiente,102504.0
+2012-Q4,2012,4,employment_position,Dependiente,104792.0
+2013-Q1,2013,1,employment_position,Dependiente,109686.0
+2013-Q2,2013,2,employment_position,Dependiente,108451.0
+2013-Q3,2013,3,employment_position,Dependiente,118114.0
+2013-Q4,2013,4,employment_position,Dependiente,116356.0
+2014-Q1,2014,1,employment_position,Dependiente,107229.0
+2014-Q2,2014,2,employment_position,Dependiente,110371.0
+2014-Q3,2014,3,employment_position,Dependiente,111531.0
+2014-Q4,2014,4,employment_position,Dependiente,112460.0
+2015-Q1,2015,1,employment_position,Dependiente,112764.0
+2015-Q2,2015,2,employment_position,Dependiente,120513.0
+2015-Q3,2015,3,employment_position,Dependiente,110410.0
+2015-Q4,2015,4,employment_position,Dependiente,118955.0
+2016-Q1,2016,1,employment_position,Dependiente,119956.0
+2016-Q2,2016,2,employment_position,Dependiente,115337.0
+2016-Q3,2016,3,employment_position,Dependiente,110006.0
+2016-Q4,2016,4,employment_position,Dependiente,119838.0
+2017-Q1,2017,1,employment_position,Dependiente,125818.0
+2017-Q2,2017,2,employment_position,Dependiente,125643.0
+2017-Q3,2017,3,employment_position,Dependiente,114628.0
+2017-Q4,2017,4,employment_position,Dependiente,105967.0
+2018-Q1,2018,1,employment_position,Dependiente,107153.0
+2018-Q2,2018,2,employment_position,Dependiente,114664.0
+2018-Q3,2018,3,employment_position,Dependiente,111284.0
+2018-Q4,2018,4,employment_position,Dependiente,104221.0
+2019-Q1,2019,1,employment_position,Dependiente,120902.0
+2019-Q2,2019,2,employment_position,Dependiente,109790.0
+2019-Q3,2019,3,employment_position,Dependiente,115195.0
+2019-Q4,2019,4,employment_position,Dependiente,109541.0
+2020-Q1,2020,1,employment_position,Dependiente,117351.0
+2020-Q2,2020,2,employment_position,Dependiente,54437.0
+2020-Q3,2020,3,employment_position,Dependiente,69328.0
+2020-Q4,2020,4,employment_position,Dependiente,73560.0
+2021-Q1,2021,1,employment_position,Dependiente,88183.0
+2021-Q2,2021,2,employment_position,Dependiente,95004.0
+2021-Q3,2021,3,employment_position,Dependiente,97291.0
+2021-Q4,2021,4,employment_position,Dependiente,99096.0
+2022-Q1,2022,1,employment_position,Dependiente,104258.0
+2022-Q2,2022,2,employment_position,Dependiente,108230.0
+2022-Q3,2022,3,employment_position,Dependiente,108775.0
+2022-Q4,2022,4,employment_position,Dependiente,113341.0
+2023-Q1,2023,1,employment_position,Dependiente,111038.0
+2023-Q2,2023,2,employment_position,Dependiente,106311.0
+2023-Q3,2023,3,employment_position,Dependiente,122054.0
+2023-Q4,2023,4,employment_position,Dependiente,111067.0
+2024-Q1,2024,1,employment_position,Dependiente,120583.0
+2024-Q2,2024,2,employment_position,Dependiente,131689.0
+2024-Q3,2024,3,employment_position,Dependiente,121163.0
+2024-Q4,2024,4,employment_position,Dependiente,113726.0
+2025-Q1,2025,1,employment_position,Dependiente,113819.0
+2025-Q2,2025,2,employment_position,Dependiente,102402.0
+2025-Q3,2025,3,employment_position,Dependiente,106660.0
+2025-Q4,2025,4,employment_position,Dependiente,94597.0
+2026-Q1,2026,1,employment_position,Dependiente,102951.0
+2010-Q3,2010,3,employment_position,Independiente,25022.0
+2010-Q4,2010,4,employment_position,Independiente,15038.0
+2011-Q1,2011,1,employment_position,Independiente,15621.0
+2011-Q2,2011,2,employment_position,Independiente,16630.0
+2011-Q3,2011,3,employment_position,Independiente,20321.0
+2011-Q4,2011,4,employment_position,Independiente,21598.0
+2012-Q1,2012,1,employment_position,Independiente,22731.0
+2012-Q2,2012,2,employment_position,Independiente,27888.0
+2012-Q3,2012,3,employment_position,Independiente,23703.0
+2012-Q4,2012,4,employment_position,Independiente,26469.0
+2013-Q1,2013,1,employment_position,Independiente,41383.0
+2013-Q2,2013,2,employment_position,Independiente,35323.0
+2013-Q3,2013,3,employment_position,Independiente,37216.0
+2013-Q4,2013,4,employment_position,Independiente,41793.0
+2014-Q1,2014,1,employment_position,Independiente,36830.0
+2014-Q2,2014,2,employment_position,Independiente,42853.0
+2014-Q3,2014,3,employment_position,Independiente,37287.0
+2014-Q4,2014,4,employment_position,Independiente,38268.0
+2015-Q1,2015,1,employment_position,Independiente,39133.0
+2015-Q2,2015,2,employment_position,Independiente,35188.0
+2015-Q3,2015,3,employment_position,Independiente,41842.0
+2015-Q4,2015,4,employment_position,Independiente,47489.0
+2016-Q1,2016,1,employment_position,Independiente,39279.0
+2016-Q2,2016,2,employment_position,Independiente,29098.0
+2016-Q3,2016,3,employment_position,Independiente,34525.0
+2016-Q4,2016,4,employment_position,Independiente,41665.0
+2017-Q1,2017,1,employment_position,Independiente,35155.0
+2017-Q2,2017,2,employment_position,Independiente,34368.0
+2017-Q3,2017,3,employment_position,Independiente,42362.0
+2017-Q4,2017,4,employment_position,Independiente,37244.0
+2018-Q1,2018,1,employment_position,Independiente,40451.0
+2018-Q2,2018,2,employment_position,Independiente,53526.0
+2018-Q3,2018,3,employment_position,Independiente,56531.0
+2018-Q4,2018,4,employment_position,Independiente,56072.0
+2019-Q1,2019,1,employment_position,Independiente,49242.0
+2019-Q2,2019,2,employment_position,Independiente,66442.0
+2019-Q3,2019,3,employment_position,Independiente,54484.0
+2019-Q4,2019,4,employment_position,Independiente,57882.0
+2020-Q1,2020,1,employment_position,Independiente,53671.0
+2020-Q2,2020,2,employment_position,Independiente,30835.0
+2020-Q3,2020,3,employment_position,Independiente,52843.0
+2020-Q4,2020,4,employment_position,Independiente,58255.0
+2021-Q1,2021,1,employment_position,Independiente,51771.0
+2021-Q2,2021,2,employment_position,Independiente,57652.0
+2021-Q3,2021,3,employment_position,Independiente,60716.0
+2021-Q4,2021,4,employment_position,Independiente,52220.0
+2022-Q1,2022,1,employment_position,Independiente,67093.0
+2022-Q2,2022,2,employment_position,Independiente,66433.0
+2022-Q3,2022,3,employment_position,Independiente,55925.0
+2022-Q4,2022,4,employment_position,Independiente,52766.0
+2023-Q1,2023,1,employment_position,Independiente,47772.0
+2023-Q2,2023,2,employment_position,Independiente,44739.0
+2023-Q3,2023,3,employment_position,Independiente,53176.0
+2023-Q4,2023,4,employment_position,Independiente,56915.0
+2024-Q1,2024,1,employment_position,Independiente,51962.0
+2024-Q2,2024,2,employment_position,Independiente,56109.0
+2024-Q3,2024,3,employment_position,Independiente,67930.0
+2024-Q4,2024,4,employment_position,Independiente,68900.0
+2025-Q1,2025,1,employment_position,Independiente,59388.0
+2025-Q2,2025,2,employment_position,Independiente,62423.0
+2025-Q3,2025,3,employment_position,Independiente,60263.0
+2025-Q4,2025,4,employment_position,Independiente,66610.0
+2026-Q1,2026,1,employment_position,Independiente,60613.0
+2010-Q3,2010,3,occupation_qualification,Ocupación calificada alta,13213.0
+2010-Q4,2010,4,occupation_qualification,Ocupación calificada alta,15152.0
+2011-Q1,2011,1,occupation_qualification,Ocupación calificada alta,15781.0
+2011-Q2,2011,2,occupation_qualification,Ocupación calificada alta,23447.0
+2011-Q3,2011,3,occupation_qualification,Ocupación calificada alta,23230.0
+2011-Q4,2011,4,occupation_qualification,Ocupación calificada alta,22970.0
+2012-Q1,2012,1,occupation_qualification,Ocupación calificada alta,18672.0
+2012-Q2,2012,2,occupation_qualification,Ocupación calificada alta,18234.0
+2012-Q3,2012,3,occupation_qualification,Ocupación calificada alta,18200.0
+2012-Q4,2012,4,occupation_qualification,Ocupación calificada alta,14079.0
+2013-Q1,2013,1,occupation_qualification,Ocupación calificada alta,13499.0
+2013-Q2,2013,2,occupation_qualification,Ocupación calificada alta,11060.0
+2013-Q3,2013,3,occupation_qualification,Ocupación calificada alta,15538.0
+2013-Q4,2013,4,occupation_qualification,Ocupación calificada alta,18536.0
+2014-Q1,2014,1,occupation_qualification,Ocupación calificada alta,14188.0
+2014-Q2,2014,2,occupation_qualification,Ocupación calificada alta,12798.0
+2014-Q3,2014,3,occupation_qualification,Ocupación calificada alta,16175.0
+2014-Q4,2014,4,occupation_qualification,Ocupación calificada alta,18896.0
+2015-Q1,2015,1,occupation_qualification,Ocupación calificada alta,17028.0
+2015-Q2,2015,2,occupation_qualification,Ocupación calificada alta,11843.0
+2015-Q3,2015,3,occupation_qualification,Ocupación calificada alta,16183.0
+2015-Q4,2015,4,occupation_qualification,Ocupación calificada alta,20301.0
+2016-Q1,2016,1,occupation_qualification,Ocupación calificada alta,13707.0
+2016-Q2,2016,2,occupation_qualification,Ocupación calificada alta,15128.0
+2016-Q3,2016,3,occupation_qualification,Ocupación calificada alta,13955.0
+2016-Q4,2016,4,occupation_qualification,Ocupación calificada alta,15833.0
+2017-Q1,2017,1,occupation_qualification,Ocupación calificada alta,13472.0
+2017-Q2,2017,2,occupation_qualification,Ocupación calificada alta,12249.0
+2017-Q3,2017,3,occupation_qualification,Ocupación calificada alta,12938.0
+2017-Q4,2017,4,occupation_qualification,Ocupación calificada alta,11732.0
+2018-Q1,2018,1,occupation_qualification,Ocupación calificada alta,12213.0
+2018-Q2,2018,2,occupation_qualification,Ocupación calificada alta,8690.0
+2018-Q3,2018,3,occupation_qualification,Ocupación calificada alta,13885.0
+2018-Q4,2018,4,occupation_qualification,Ocupación calificada alta,14726.0
+2019-Q1,2019,1,occupation_qualification,Ocupación calificada alta,17427.0
+2019-Q2,2019,2,occupation_qualification,Ocupación calificada alta,19396.0
+2019-Q3,2019,3,occupation_qualification,Ocupación calificada alta,18743.0
+2019-Q4,2019,4,occupation_qualification,Ocupación calificada alta,12775.0
+2020-Q1,2020,1,occupation_qualification,Ocupación calificada alta,12907.0
+2020-Q2,2020,2,occupation_qualification,Ocupación calificada alta,4158.0
+2020-Q3,2020,3,occupation_qualification,Ocupación calificada alta,7698.0
+2020-Q4,2020,4,occupation_qualification,Ocupación calificada alta,10254.0
+2021-Q1,2021,1,occupation_qualification,Ocupación calificada alta,7569.0
+2021-Q2,2021,2,occupation_qualification,Ocupación calificada alta,13320.0
+2021-Q3,2021,3,occupation_qualification,Ocupación calificada alta,16516.0
+2021-Q4,2021,4,occupation_qualification,Ocupación calificada alta,13184.0
+2022-Q1,2022,1,occupation_qualification,Ocupación calificada alta,20168.0
+2022-Q2,2022,2,occupation_qualification,Ocupación calificada alta,19990.0
+2022-Q3,2022,3,occupation_qualification,Ocupación calificada alta,9763.0
+2022-Q4,2022,4,occupation_qualification,Ocupación calificada alta,8019.0
+2023-Q1,2023,1,occupation_qualification,Ocupación calificada alta,7897.0
+2023-Q2,2023,2,occupation_qualification,Ocupación calificada alta,8405.0
+2023-Q3,2023,3,occupation_qualification,Ocupación calificada alta,10331.0
+2023-Q4,2023,4,occupation_qualification,Ocupación calificada alta,15041.0
+2024-Q1,2024,1,occupation_qualification,Ocupación calificada alta,11452.0
+2024-Q2,2024,2,occupation_qualification,Ocupación calificada alta,14594.0
+2024-Q3,2024,3,occupation_qualification,Ocupación calificada alta,8427.0
+2024-Q4,2024,4,occupation_qualification,Ocupación calificada alta,20754.0
+2025-Q1,2025,1,occupation_qualification,Ocupación calificada alta,16390.0
+2025-Q2,2025,2,occupation_qualification,Ocupación calificada alta,18236.0
+2025-Q3,2025,3,occupation_qualification,Ocupación calificada alta,18543.0
+2025-Q4,2025,4,occupation_qualification,Ocupación calificada alta,21533.0
+2026-Q1,2026,1,occupation_qualification,Ocupación calificada alta,17669.0
+2010-Q3,2010,3,occupation_qualification,Ocupación calificada media,87780.0
+2010-Q4,2010,4,occupation_qualification,Ocupación calificada media,88453.0
+2011-Q1,2011,1,occupation_qualification,Ocupación calificada media,75107.0
+2011-Q2,2011,2,occupation_qualification,Ocupación calificada media,70769.0
+2011-Q3,2011,3,occupation_qualification,Ocupación calificada media,84419.0
+2011-Q4,2011,4,occupation_qualification,Ocupación calificada media,92370.0
+2012-Q1,2012,1,occupation_qualification,Ocupación calificada media,93864.0
+2012-Q2,2012,2,occupation_qualification,Ocupación calificada media,90077.0
+2012-Q3,2012,3,occupation_qualification,Ocupación calificada media,89732.0
+2012-Q4,2012,4,occupation_qualification,Ocupación calificada media,93221.0
+2013-Q1,2013,1,occupation_qualification,Ocupación calificada media,106740.0
+2013-Q2,2013,2,occupation_qualification,Ocupación calificada media,104769.0
+2013-Q3,2013,3,occupation_qualification,Ocupación calificada media,101626.0
+2013-Q4,2013,4,occupation_qualification,Ocupación calificada media,96238.0
+2014-Q1,2014,1,occupation_qualification,Ocupación calificada media,93950.0
+2014-Q2,2014,2,occupation_qualification,Ocupación calificada media,105454.0
+2014-Q3,2014,3,occupation_qualification,Ocupación calificada media,94515.0
+2014-Q4,2014,4,occupation_qualification,Ocupación calificada media,99997.0
+2015-Q1,2015,1,occupation_qualification,Ocupación calificada media,98170.0
+2015-Q2,2015,2,occupation_qualification,Ocupación calificada media,105420.0
+2015-Q3,2015,3,occupation_qualification,Ocupación calificada media,104946.0
+2015-Q4,2015,4,occupation_qualification,Ocupación calificada media,103347.0
+2016-Q1,2016,1,occupation_qualification,Ocupación calificada media,105512.0
+2016-Q2,2016,2,occupation_qualification,Ocupación calificada media,96069.0
+2016-Q3,2016,3,occupation_qualification,Ocupación calificada media,93623.0
+2016-Q4,2016,4,occupation_qualification,Ocupación calificada media,108787.0
+2017-Q1,2017,1,occupation_qualification,Ocupación calificada media,106939.0
+2017-Q2,2017,2,occupation_qualification,Ocupación calificada media,103212.0
+2017-Q3,2017,3,occupation_qualification,Ocupación calificada media,103556.0
+2017-Q4,2017,4,occupation_qualification,Ocupación calificada media,99303.0
+2018-Q1,2018,1,occupation_qualification,Ocupación calificada media,109800.0
+2018-Q2,2018,2,occupation_qualification,Ocupación calificada media,126132.0
+2018-Q3,2018,3,occupation_qualification,Ocupación calificada media,119569.0
+2018-Q4,2018,4,occupation_qualification,Ocupación calificada media,118707.0
+2019-Q1,2019,1,occupation_qualification,Ocupación calificada media,118788.0
+2019-Q2,2019,2,occupation_qualification,Ocupación calificada media,121267.0
+2019-Q3,2019,3,occupation_qualification,Ocupación calificada media,115635.0
+2019-Q4,2019,4,occupation_qualification,Ocupación calificada media,122081.0
+2020-Q1,2020,1,occupation_qualification,Ocupación calificada media,121670.0
+2020-Q2,2020,2,occupation_qualification,Ocupación calificada media,59974.0
+2020-Q3,2020,3,occupation_qualification,Ocupación calificada media,83851.0
+2020-Q4,2020,4,occupation_qualification,Ocupación calificada media,95674.0
+2021-Q1,2021,1,occupation_qualification,Ocupación calificada media,98411.0
+2021-Q2,2021,2,occupation_qualification,Ocupación calificada media,108317.0
+2021-Q3,2021,3,occupation_qualification,Ocupación calificada media,105366.0
+2021-Q4,2021,4,occupation_qualification,Ocupación calificada media,101781.0
+2022-Q1,2022,1,occupation_qualification,Ocupación calificada media,118436.0
+2022-Q2,2022,2,occupation_qualification,Ocupación calificada media,116502.0
+2022-Q3,2022,3,occupation_qualification,Ocupación calificada media,118602.0
+2022-Q4,2022,4,occupation_qualification,Ocupación calificada media,114084.0
+2023-Q1,2023,1,occupation_qualification,Ocupación calificada media,115866.0
+2023-Q2,2023,2,occupation_qualification,Ocupación calificada media,114323.0
+2023-Q3,2023,3,occupation_qualification,Ocupación calificada media,130164.0
+2023-Q4,2023,4,occupation_qualification,Ocupación calificada media,120936.0
+2024-Q1,2024,1,occupation_qualification,Ocupación calificada media,120946.0
+2024-Q2,2024,2,occupation_qualification,Ocupación calificada media,129796.0
+2024-Q3,2024,3,occupation_qualification,Ocupación calificada media,134209.0
+2024-Q4,2024,4,occupation_qualification,Ocupación calificada media,125013.0
+2025-Q1,2025,1,occupation_qualification,Ocupación calificada media,116363.0
+2025-Q2,2025,2,occupation_qualification,Ocupación calificada media,105583.0
+2025-Q3,2025,3,occupation_qualification,Ocupación calificada media,113951.0
+2025-Q4,2025,4,occupation_qualification,Ocupación calificada media,105605.0
+2026-Q1,2026,1,occupation_qualification,Ocupación calificada media,113568.0
+2010-Q3,2010,3,occupation_qualification,Ocupación no calificada,28949.0
+2010-Q4,2010,4,occupation_qualification,Ocupación no calificada,18705.0
+2011-Q1,2011,1,occupation_qualification,Ocupación no calificada,20859.0
+2011-Q2,2011,2,occupation_qualification,Ocupación no calificada,16672.0
+2011-Q3,2011,3,occupation_qualification,Ocupación no calificada,18275.0
+2011-Q4,2011,4,occupation_qualification,Ocupación no calificada,15428.0
+2012-Q1,2012,1,occupation_qualification,Ocupación no calificada,23515.0
+2012-Q2,2012,2,occupation_qualification,Ocupación no calificada,19771.0
+2012-Q3,2012,3,occupation_qualification,Ocupación no calificada,18275.0
+2012-Q4,2012,4,occupation_qualification,Ocupación no calificada,23961.0
+2013-Q1,2013,1,occupation_qualification,Ocupación no calificada,30830.0
+2013-Q2,2013,2,occupation_qualification,Ocupación no calificada,27945.0
+2013-Q3,2013,3,occupation_qualification,Ocupación no calificada,38166.0
+2013-Q4,2013,4,occupation_qualification,Ocupación no calificada,43375.0
+2014-Q1,2014,1,occupation_qualification,Ocupación no calificada,35921.0
+2014-Q2,2014,2,occupation_qualification,Ocupación no calificada,34870.0
+2014-Q3,2014,3,occupation_qualification,Ocupación no calificada,38128.0
+2014-Q4,2014,4,occupation_qualification,Ocupación no calificada,31835.0
+2015-Q1,2015,1,occupation_qualification,Ocupación no calificada,35972.0
+2015-Q2,2015,2,occupation_qualification,Ocupación no calificada,38438.0
+2015-Q3,2015,3,occupation_qualification,Ocupación no calificada,30895.0
+2015-Q4,2015,4,occupation_qualification,Ocupación no calificada,42796.0
+2016-Q1,2016,1,occupation_qualification,Ocupación no calificada,40016.0
+2016-Q2,2016,2,occupation_qualification,Ocupación no calificada,33238.0
+2016-Q3,2016,3,occupation_qualification,Ocupación no calificada,36953.0
+2016-Q4,2016,4,occupation_qualification,Ocupación no calificada,36883.0
+2017-Q1,2017,1,occupation_qualification,Ocupación no calificada,39785.0
+2017-Q2,2017,2,occupation_qualification,Ocupación no calificada,44550.0
+2017-Q3,2017,3,occupation_qualification,Ocupación no calificada,40496.0
+2017-Q4,2017,4,occupation_qualification,Ocupación no calificada,31932.0
+2018-Q1,2018,1,occupation_qualification,Ocupación no calificada,25591.0
+2018-Q2,2018,2,occupation_qualification,Ocupación no calificada,33368.0
+2018-Q3,2018,3,occupation_qualification,Ocupación no calificada,34361.0
+2018-Q4,2018,4,occupation_qualification,Ocupación no calificada,26068.0
+2019-Q1,2019,1,occupation_qualification,Ocupación no calificada,33774.0
+2019-Q2,2019,2,occupation_qualification,Ocupación no calificada,35569.0
+2019-Q3,2019,3,occupation_qualification,Ocupación no calificada,35301.0
+2019-Q4,2019,4,occupation_qualification,Ocupación no calificada,32567.0
+2020-Q1,2020,1,occupation_qualification,Ocupación no calificada,36445.0
+2020-Q2,2020,2,occupation_qualification,Ocupación no calificada,21140.0
+2020-Q3,2020,3,occupation_qualification,Ocupación no calificada,30622.0
+2020-Q4,2020,4,occupation_qualification,Ocupación no calificada,25887.0
+2021-Q1,2021,1,occupation_qualification,Ocupación no calificada,33974.0
+2021-Q2,2021,2,occupation_qualification,Ocupación no calificada,31019.0
+2021-Q3,2021,3,occupation_qualification,Ocupación no calificada,36125.0
+2021-Q4,2021,4,occupation_qualification,Ocupación no calificada,36234.0
+2022-Q1,2022,1,occupation_qualification,Ocupación no calificada,32747.0
+2022-Q2,2022,2,occupation_qualification,Ocupación no calificada,36480.0
+2022-Q3,2022,3,occupation_qualification,Ocupación no calificada,34540.0
+2022-Q4,2022,4,occupation_qualification,Ocupación no calificada,43695.0
+2023-Q1,2023,1,occupation_qualification,Ocupación no calificada,34734.0
+2023-Q2,2023,2,occupation_qualification,Ocupación no calificada,28322.0
+2023-Q3,2023,3,occupation_qualification,Ocupación no calificada,34612.0
+2023-Q4,2023,4,occupation_qualification,Ocupación no calificada,32005.0
+2024-Q1,2024,1,occupation_qualification,Ocupación no calificada,40147.0
+2024-Q2,2024,2,occupation_qualification,Ocupación no calificada,43408.0
+2024-Q3,2024,3,occupation_qualification,Ocupación no calificada,46457.0
+2024-Q4,2024,4,occupation_qualification,Ocupación no calificada,36859.0
+2025-Q1,2025,1,occupation_qualification,Ocupación no calificada,40454.0
+2025-Q2,2025,2,occupation_qualification,Ocupación no calificada,41006.0
+2025-Q3,2025,3,occupation_qualification,Ocupación no calificada,34429.0
+2025-Q4,2025,4,occupation_qualification,Ocupación no calificada,34069.0
+2026-Q1,2026,1,occupation_qualification,Ocupación no calificada,32327.0
+2010-Q3,2010,3,occupation_qualification,No especificado,141.0
+2010-Q4,2010,4,occupation_qualification,No especificado,68.0
+2011-Q1,2011,1,occupation_qualification,No especificado,
+2011-Q2,2011,2,occupation_qualification,No especificado,
+2011-Q3,2011,3,occupation_qualification,No especificado,
+2011-Q4,2011,4,occupation_qualification,No especificado,1009.0
+2012-Q1,2012,1,occupation_qualification,No especificado,60.0
+2012-Q2,2012,2,occupation_qualification,No especificado,90.0
+2012-Q3,2012,3,occupation_qualification,No especificado,
+2012-Q4,2012,4,occupation_qualification,No especificado,
+2013-Q1,2013,1,occupation_qualification,No especificado,
+2013-Q2,2013,2,occupation_qualification,No especificado,
+2013-Q3,2013,3,occupation_qualification,No especificado,
+2013-Q4,2013,4,occupation_qualification,No especificado,
+2014-Q1,2014,1,occupation_qualification,No especificado,
+2014-Q2,2014,2,occupation_qualification,No especificado,102.0
+2014-Q3,2014,3,occupation_qualification,No especificado,
+2014-Q4,2014,4,occupation_qualification,No especificado,
+2015-Q1,2015,1,occupation_qualification,No especificado,727.0
+2015-Q2,2015,2,occupation_qualification,No especificado,
+2015-Q3,2015,3,occupation_qualification,No especificado,228.0
+2015-Q4,2015,4,occupation_qualification,No especificado,
+2016-Q1,2016,1,occupation_qualification,No especificado,
+2016-Q2,2016,2,occupation_qualification,No especificado,
+2016-Q3,2016,3,occupation_qualification,No especificado,
+2016-Q4,2016,4,occupation_qualification,No especificado,
+2017-Q1,2017,1,occupation_qualification,No especificado,777.0
+2017-Q2,2017,2,occupation_qualification,No especificado,
+2017-Q3,2017,3,occupation_qualification,No especificado,
+2017-Q4,2017,4,occupation_qualification,No especificado,244.0
+2018-Q1,2018,1,occupation_qualification,No especificado,
+2018-Q2,2018,2,occupation_qualification,No especificado,
+2018-Q3,2018,3,occupation_qualification,No especificado,
+2018-Q4,2018,4,occupation_qualification,No especificado,792.0
+2019-Q1,2019,1,occupation_qualification,No especificado,155.0
+2019-Q2,2019,2,occupation_qualification,No especificado,
+2019-Q3,2019,3,occupation_qualification,No especificado,
+2019-Q4,2019,4,occupation_qualification,No especificado,
+2020-Q1,2020,1,occupation_qualification,No especificado,
+2020-Q2,2020,2,occupation_qualification,No especificado,
+2020-Q3,2020,3,occupation_qualification,No especificado,
+2020-Q4,2020,4,occupation_qualification,No especificado,
+2021-Q1,2021,1,occupation_qualification,No especificado,
+2021-Q2,2021,2,occupation_qualification,No especificado,
+2021-Q3,2021,3,occupation_qualification,No especificado,
+2021-Q4,2021,4,occupation_qualification,No especificado,117.0
+2022-Q1,2022,1,occupation_qualification,No especificado,
+2022-Q2,2022,2,occupation_qualification,No especificado,1691.0
+2022-Q3,2022,3,occupation_qualification,No especificado,1795.0
+2022-Q4,2022,4,occupation_qualification,No especificado,309.0
+2023-Q1,2023,1,occupation_qualification,No especificado,313.0
+2023-Q2,2023,2,occupation_qualification,No especificado,
+2023-Q3,2023,3,occupation_qualification,No especificado,123.0
+2023-Q4,2023,4,occupation_qualification,No especificado,
+2024-Q1,2024,1,occupation_qualification,No especificado,
+2024-Q2,2024,2,occupation_qualification,No especificado,
+2024-Q3,2024,3,occupation_qualification,No especificado,
+2024-Q4,2024,4,occupation_qualification,No especificado,
+2025-Q1,2025,1,occupation_qualification,No especificado,
+2025-Q2,2025,2,occupation_qualification,No especificado,
+2025-Q3,2025,3,occupation_qualification,No especificado,
+2025-Q4,2025,4,occupation_qualification,No especificado,
+2026-Q1,2026,1,occupation_qualification,No especificado,
+2010-Q3,2010,3,establishment_size,De 1 a 3 personas,34538.0
+2010-Q4,2010,4,establishment_size,De 1 a 3 personas,25418.0
+2011-Q1,2011,1,establishment_size,De 1 a 3 personas,22841.0
+2011-Q2,2011,2,establishment_size,De 1 a 3 personas,25183.0
+2011-Q3,2011,3,establishment_size,De 1 a 3 personas,33513.0
+2011-Q4,2011,4,establishment_size,De 1 a 3 personas,32844.0
+2012-Q1,2012,1,establishment_size,De 1 a 3 personas,38452.0
+2012-Q2,2012,2,establishment_size,De 1 a 3 personas,41298.0
+2012-Q3,2012,3,establishment_size,De 1 a 3 personas,39931.0
+2012-Q4,2012,4,establishment_size,De 1 a 3 personas,40163.0
+2013-Q1,2013,1,establishment_size,De 1 a 3 personas,57105.0
+2013-Q2,2013,2,establishment_size,De 1 a 3 personas,57874.0
+2013-Q3,2013,3,establishment_size,De 1 a 3 personas,55773.0
+2013-Q4,2013,4,establishment_size,De 1 a 3 personas,60956.0
+2014-Q1,2014,1,establishment_size,De 1 a 3 personas,52297.0
+2014-Q2,2014,2,establishment_size,De 1 a 3 personas,57900.0
+2014-Q3,2014,3,establishment_size,De 1 a 3 personas,56093.0
+2014-Q4,2014,4,establishment_size,De 1 a 3 personas,55918.0
+2015-Q1,2015,1,establishment_size,De 1 a 3 personas,56314.0
+2015-Q2,2015,2,establishment_size,De 1 a 3 personas,60986.0
+2015-Q3,2015,3,establishment_size,De 1 a 3 personas,60321.0
+2015-Q4,2015,4,establishment_size,De 1 a 3 personas,62649.0
+2016-Q1,2016,1,establishment_size,De 1 a 3 personas,58335.0
+2016-Q2,2016,2,establishment_size,De 1 a 3 personas,39808.0
+2016-Q3,2016,3,establishment_size,De 1 a 3 personas,50478.0
+2016-Q4,2016,4,establishment_size,De 1 a 3 personas,60797.0
+2017-Q1,2017,1,establishment_size,De 1 a 3 personas,49726.0
+2017-Q2,2017,2,establishment_size,De 1 a 3 personas,51266.0
+2017-Q3,2017,3,establishment_size,De 1 a 3 personas,59256.0
+2017-Q4,2017,4,establishment_size,De 1 a 3 personas,50364.0
+2018-Q1,2018,1,establishment_size,De 1 a 3 personas,55608.0
+2018-Q2,2018,2,establishment_size,De 1 a 3 personas,68303.0
+2018-Q3,2018,3,establishment_size,De 1 a 3 personas,71259.0
+2018-Q4,2018,4,establishment_size,De 1 a 3 personas,67178.0
+2019-Q1,2019,1,establishment_size,De 1 a 3 personas,70551.0
+2019-Q2,2019,2,establishment_size,De 1 a 3 personas,85132.0
+2019-Q3,2019,3,establishment_size,De 1 a 3 personas,75141.0
+2019-Q4,2019,4,establishment_size,De 1 a 3 personas,74693.0
+2020-Q1,2020,1,establishment_size,De 1 a 3 personas,67072.0
+2020-Q2,2020,2,establishment_size,De 1 a 3 personas,40206.0
+2020-Q3,2020,3,establishment_size,De 1 a 3 personas,67230.0
+2020-Q4,2020,4,establishment_size,De 1 a 3 personas,64164.0
+2021-Q1,2021,1,establishment_size,De 1 a 3 personas,68616.0
+2021-Q2,2021,2,establishment_size,De 1 a 3 personas,77204.0
+2021-Q3,2021,3,establishment_size,De 1 a 3 personas,71091.0
+2021-Q4,2021,4,establishment_size,De 1 a 3 personas,69592.0
+2022-Q1,2022,1,establishment_size,De 1 a 3 personas,80298.0
+2022-Q2,2022,2,establishment_size,De 1 a 3 personas,81116.0
+2022-Q3,2022,3,establishment_size,De 1 a 3 personas,71019.0
+2022-Q4,2022,4,establishment_size,De 1 a 3 personas,69353.0
+2023-Q1,2023,1,establishment_size,De 1 a 3 personas,62194.0
+2023-Q2,2023,2,establishment_size,De 1 a 3 personas,56687.0
+2023-Q3,2023,3,establishment_size,De 1 a 3 personas,74571.0
+2023-Q4,2023,4,establishment_size,De 1 a 3 personas,72682.0
+2024-Q1,2024,1,establishment_size,De 1 a 3 personas,71598.0
+2024-Q2,2024,2,establishment_size,De 1 a 3 personas,74892.0
+2024-Q3,2024,3,establishment_size,De 1 a 3 personas,74224.0
+2024-Q4,2024,4,establishment_size,De 1 a 3 personas,71883.0
+2025-Q1,2025,1,establishment_size,De 1 a 3 personas,68726.0
+2025-Q2,2025,2,establishment_size,De 1 a 3 personas,71923.0
+2025-Q3,2025,3,establishment_size,De 1 a 3 personas,66609.0
+2025-Q4,2025,4,establishment_size,De 1 a 3 personas,70053.0
+2026-Q1,2026,1,establishment_size,De 1 a 3 personas,65813.0
+2010-Q3,2010,3,establishment_size,De 4 a 9 personas,35662.0
+2010-Q4,2010,4,establishment_size,De 4 a 9 personas,38669.0
+2011-Q1,2011,1,establishment_size,De 4 a 9 personas,27556.0
+2011-Q2,2011,2,establishment_size,De 4 a 9 personas,26078.0
+2011-Q3,2011,3,establishment_size,De 4 a 9 personas,32564.0
+2011-Q4,2011,4,establishment_size,De 4 a 9 personas,33616.0
+2012-Q1,2012,1,establishment_size,De 4 a 9 personas,34701.0
+2012-Q2,2012,2,establishment_size,De 4 a 9 personas,30183.0
+2012-Q3,2012,3,establishment_size,De 4 a 9 personas,27168.0
+2012-Q4,2012,4,establishment_size,De 4 a 9 personas,31012.0
+2013-Q1,2013,1,establishment_size,De 4 a 9 personas,30256.0
+2013-Q2,2013,2,establishment_size,De 4 a 9 personas,31082.0
+2013-Q3,2013,3,establishment_size,De 4 a 9 personas,33985.0
+2013-Q4,2013,4,establishment_size,De 4 a 9 personas,31232.0
+2014-Q1,2014,1,establishment_size,De 4 a 9 personas,32080.0
+2014-Q2,2014,2,establishment_size,De 4 a 9 personas,37091.0
+2014-Q3,2014,3,establishment_size,De 4 a 9 personas,35433.0
+2014-Q4,2014,4,establishment_size,De 4 a 9 personas,31437.0
+2015-Q1,2015,1,establishment_size,De 4 a 9 personas,34132.0
+2015-Q2,2015,2,establishment_size,De 4 a 9 personas,33091.0
+2015-Q3,2015,3,establishment_size,De 4 a 9 personas,35929.0
+2015-Q4,2015,4,establishment_size,De 4 a 9 personas,41525.0
+2016-Q1,2016,1,establishment_size,De 4 a 9 personas,37434.0
+2016-Q2,2016,2,establishment_size,De 4 a 9 personas,39291.0
+2016-Q3,2016,3,establishment_size,De 4 a 9 personas,34873.0
+2016-Q4,2016,4,establishment_size,De 4 a 9 personas,32163.0
+2017-Q1,2017,1,establishment_size,De 4 a 9 personas,40905.0
+2017-Q2,2017,2,establishment_size,De 4 a 9 personas,40191.0
+2017-Q3,2017,3,establishment_size,De 4 a 9 personas,28855.0
+2017-Q4,2017,4,establishment_size,De 4 a 9 personas,27089.0
+2018-Q1,2018,1,establishment_size,De 4 a 9 personas,33551.0
+2018-Q2,2018,2,establishment_size,De 4 a 9 personas,34537.0
+2018-Q3,2018,3,establishment_size,De 4 a 9 personas,35719.0
+2018-Q4,2018,4,establishment_size,De 4 a 9 personas,36646.0
+2019-Q1,2019,1,establishment_size,De 4 a 9 personas,37138.0
+2019-Q2,2019,2,establishment_size,De 4 a 9 personas,36874.0
+2019-Q3,2019,3,establishment_size,De 4 a 9 personas,37019.0
+2019-Q4,2019,4,establishment_size,De 4 a 9 personas,37718.0
+2020-Q1,2020,1,establishment_size,De 4 a 9 personas,46842.0
+2020-Q2,2020,2,establishment_size,De 4 a 9 personas,23582.0
+2020-Q3,2020,3,establishment_size,De 4 a 9 personas,33229.0
+2020-Q4,2020,4,establishment_size,De 4 a 9 personas,35267.0
+2021-Q1,2021,1,establishment_size,De 4 a 9 personas,32541.0
+2021-Q2,2021,2,establishment_size,De 4 a 9 personas,34266.0
+2021-Q3,2021,3,establishment_size,De 4 a 9 personas,32026.0
+2021-Q4,2021,4,establishment_size,De 4 a 9 personas,30874.0
+2022-Q1,2022,1,establishment_size,De 4 a 9 personas,40633.0
+2022-Q2,2022,2,establishment_size,De 4 a 9 personas,30611.0
+2022-Q3,2022,3,establishment_size,De 4 a 9 personas,33513.0
+2022-Q4,2022,4,establishment_size,De 4 a 9 personas,43209.0
+2023-Q1,2023,1,establishment_size,De 4 a 9 personas,39694.0
+2023-Q2,2023,2,establishment_size,De 4 a 9 personas,40332.0
+2023-Q3,2023,3,establishment_size,De 4 a 9 personas,37064.0
+2023-Q4,2023,4,establishment_size,De 4 a 9 personas,26331.0
+2024-Q1,2024,1,establishment_size,De 4 a 9 personas,29724.0
+2024-Q2,2024,2,establishment_size,De 4 a 9 personas,31174.0
+2024-Q3,2024,3,establishment_size,De 4 a 9 personas,41410.0
+2024-Q4,2024,4,establishment_size,De 4 a 9 personas,39076.0
+2025-Q1,2025,1,establishment_size,De 4 a 9 personas,23791.0
+2025-Q2,2025,2,establishment_size,De 4 a 9 personas,32536.0
+2025-Q3,2025,3,establishment_size,De 4 a 9 personas,33967.0
+2025-Q4,2025,4,establishment_size,De 4 a 9 personas,27710.0
+2026-Q1,2026,1,establishment_size,De 4 a 9 personas,32976.0
+2010-Q3,2010,3,establishment_size,De 10 a 29 personas,25298.0
+2010-Q4,2010,4,establishment_size,De 10 a 29 personas,26978.0
+2011-Q1,2011,1,establishment_size,De 10 a 29 personas,27448.0
+2011-Q2,2011,2,establishment_size,De 10 a 29 personas,30112.0
+2011-Q3,2011,3,establishment_size,De 10 a 29 personas,30125.0
+2011-Q4,2011,4,establishment_size,De 10 a 29 personas,29722.0
+2012-Q1,2012,1,establishment_size,De 10 a 29 personas,33245.0
+2012-Q2,2012,2,establishment_size,De 10 a 29 personas,36001.0
+2012-Q3,2012,3,establishment_size,De 10 a 29 personas,38810.0
+2012-Q4,2012,4,establishment_size,De 10 a 29 personas,26794.0
+2013-Q1,2013,1,establishment_size,De 10 a 29 personas,30059.0
+2013-Q2,2013,2,establishment_size,De 10 a 29 personas,25729.0
+2013-Q3,2013,3,establishment_size,De 10 a 29 personas,36911.0
+2013-Q4,2013,4,establishment_size,De 10 a 29 personas,30970.0
+2014-Q1,2014,1,establishment_size,De 10 a 29 personas,24226.0
+2014-Q2,2014,2,establishment_size,De 10 a 29 personas,28039.0
+2014-Q3,2014,3,establishment_size,De 10 a 29 personas,24446.0
+2014-Q4,2014,4,establishment_size,De 10 a 29 personas,29915.0
+2015-Q1,2015,1,establishment_size,De 10 a 29 personas,33117.0
+2015-Q2,2015,2,establishment_size,De 10 a 29 personas,33316.0
+2015-Q3,2015,3,establishment_size,De 10 a 29 personas,30236.0
+2015-Q4,2015,4,establishment_size,De 10 a 29 personas,30480.0
+2016-Q1,2016,1,establishment_size,De 10 a 29 personas,31327.0
+2016-Q2,2016,2,establishment_size,De 10 a 29 personas,37568.0
+2016-Q3,2016,3,establishment_size,De 10 a 29 personas,28606.0
+2016-Q4,2016,4,establishment_size,De 10 a 29 personas,38355.0
+2017-Q1,2017,1,establishment_size,De 10 a 29 personas,37409.0
+2017-Q2,2017,2,establishment_size,De 10 a 29 personas,37852.0
+2017-Q3,2017,3,establishment_size,De 10 a 29 personas,39784.0
+2017-Q4,2017,4,establishment_size,De 10 a 29 personas,34247.0
+2018-Q1,2018,1,establishment_size,De 10 a 29 personas,26834.0
+2018-Q2,2018,2,establishment_size,De 10 a 29 personas,33354.0
+2018-Q3,2018,3,establishment_size,De 10 a 29 personas,29605.0
+2018-Q4,2018,4,establishment_size,De 10 a 29 personas,25216.0
+2019-Q1,2019,1,establishment_size,De 10 a 29 personas,26536.0
+2019-Q2,2019,2,establishment_size,De 10 a 29 personas,22639.0
+2019-Q3,2019,3,establishment_size,De 10 a 29 personas,29473.0
+2019-Q4,2019,4,establishment_size,De 10 a 29 personas,27364.0
+2020-Q1,2020,1,establishment_size,De 10 a 29 personas,22148.0
+2020-Q2,2020,2,establishment_size,De 10 a 29 personas,11122.0
+2020-Q3,2020,3,establishment_size,De 10 a 29 personas,10897.0
+2020-Q4,2020,4,establishment_size,De 10 a 29 personas,16123.0
+2021-Q1,2021,1,establishment_size,De 10 a 29 personas,14701.0
+2021-Q2,2021,2,establishment_size,De 10 a 29 personas,17963.0
+2021-Q3,2021,3,establishment_size,De 10 a 29 personas,28296.0
+2021-Q4,2021,4,establishment_size,De 10 a 29 personas,19110.0
+2022-Q1,2022,1,establishment_size,De 10 a 29 personas,21515.0
+2022-Q2,2022,2,establishment_size,De 10 a 29 personas,29818.0
+2022-Q3,2022,3,establishment_size,De 10 a 29 personas,29362.0
+2022-Q4,2022,4,establishment_size,De 10 a 29 personas,24597.0
+2023-Q1,2023,1,establishment_size,De 10 a 29 personas,28517.0
+2023-Q2,2023,2,establishment_size,De 10 a 29 personas,25600.0
+2023-Q3,2023,3,establishment_size,De 10 a 29 personas,35475.0
+2023-Q4,2023,4,establishment_size,De 10 a 29 personas,39707.0
+2024-Q1,2024,1,establishment_size,De 10 a 29 personas,35197.0
+2024-Q2,2024,2,establishment_size,De 10 a 29 personas,44983.0
+2024-Q3,2024,3,establishment_size,De 10 a 29 personas,43647.0
+2024-Q4,2024,4,establishment_size,De 10 a 29 personas,36185.0
+2025-Q1,2025,1,establishment_size,De 10 a 29 personas,40903.0
+2025-Q2,2025,2,establishment_size,De 10 a 29 personas,26389.0
+2025-Q3,2025,3,establishment_size,De 10 a 29 personas,30046.0
+2025-Q4,2025,4,establishment_size,De 10 a 29 personas,32003.0
+2026-Q1,2026,1,establishment_size,De 10 a 29 personas,33076.0
+2010-Q3,2010,3,establishment_size,De 30 o más personas,34361.0
+2010-Q4,2010,4,establishment_size,De 30 o más personas,30758.0
+2011-Q1,2011,1,establishment_size,De 30 o más personas,31580.0
+2011-Q2,2011,2,establishment_size,De 30 o más personas,19409.0
+2011-Q3,2011,3,establishment_size,De 30 o más personas,28763.0
+2011-Q4,2011,4,establishment_size,De 30 o más personas,35336.0
+2012-Q1,2012,1,establishment_size,De 30 o más personas,29713.0
+2012-Q2,2012,2,establishment_size,De 30 o más personas,20690.0
+2012-Q3,2012,3,establishment_size,De 30 o más personas,20298.0
+2012-Q4,2012,4,establishment_size,De 30 o más personas,33292.0
+2013-Q1,2013,1,establishment_size,De 30 o más personas,33649.0
+2013-Q2,2013,2,establishment_size,De 30 o más personas,27997.0
+2013-Q3,2013,3,establishment_size,De 30 o más personas,28581.0
+2013-Q4,2013,4,establishment_size,De 30 o más personas,34778.0
+2014-Q1,2014,1,establishment_size,De 30 o más personas,34990.0
+2014-Q2,2014,2,establishment_size,De 30 o más personas,28941.0
+2014-Q3,2014,3,establishment_size,De 30 o más personas,31870.0
+2014-Q4,2014,4,establishment_size,De 30 o más personas,33379.0
+2015-Q1,2015,1,establishment_size,De 30 o más personas,26839.0
+2015-Q2,2015,2,establishment_size,De 30 o más personas,27458.0
+2015-Q3,2015,3,establishment_size,De 30 o más personas,25683.0
+2015-Q4,2015,4,establishment_size,De 30 o más personas,30678.0
+2016-Q1,2016,1,establishment_size,De 30 o más personas,31964.0
+2016-Q2,2016,2,establishment_size,De 30 o más personas,26896.0
+2016-Q3,2016,3,establishment_size,De 30 o más personas,30403.0
+2016-Q4,2016,4,establishment_size,De 30 o más personas,30103.0
+2017-Q1,2017,1,establishment_size,De 30 o más personas,32347.0
+2017-Q2,2017,2,establishment_size,De 30 o más personas,30272.0
+2017-Q3,2017,3,establishment_size,De 30 o más personas,28942.0
+2017-Q4,2017,4,establishment_size,De 30 o más personas,31289.0
+2018-Q1,2018,1,establishment_size,De 30 o más personas,31184.0
+2018-Q2,2018,2,establishment_size,De 30 o más personas,31632.0
+2018-Q3,2018,3,establishment_size,De 30 o más personas,30935.0
+2018-Q4,2018,4,establishment_size,De 30 o más personas,29850.0
+2019-Q1,2019,1,establishment_size,De 30 o más personas,35106.0
+2019-Q2,2019,2,establishment_size,De 30 o más personas,31439.0
+2019-Q3,2019,3,establishment_size,De 30 o más personas,27671.0
+2019-Q4,2019,4,establishment_size,De 30 o más personas,27545.0
+2020-Q1,2020,1,establishment_size,De 30 o más personas,33680.0
+2020-Q2,2020,2,establishment_size,De 30 o más personas,9972.0
+2020-Q3,2020,3,establishment_size,De 30 o más personas,10561.0
+2020-Q4,2020,4,establishment_size,De 30 o más personas,15793.0
+2021-Q1,2021,1,establishment_size,De 30 o más personas,23314.0
+2021-Q2,2021,2,establishment_size,De 30 o más personas,22308.0
+2021-Q3,2021,3,establishment_size,De 30 o más personas,24380.0
+2021-Q4,2021,4,establishment_size,De 30 o más personas,28395.0
+2022-Q1,2022,1,establishment_size,De 30 o más personas,25677.0
+2022-Q2,2022,2,establishment_size,De 30 o más personas,31317.0
+2022-Q3,2022,3,establishment_size,De 30 o más personas,27269.0
+2022-Q4,2022,4,establishment_size,De 30 o más personas,27788.0
+2023-Q1,2023,1,establishment_size,De 30 o más personas,26567.0
+2023-Q2,2023,2,establishment_size,De 30 o más personas,27933.0
+2023-Q3,2023,3,establishment_size,De 30 o más personas,26555.0
+2023-Q4,2023,4,establishment_size,De 30 o más personas,27427.0
+2024-Q1,2024,1,establishment_size,De 30 o más personas,35039.0
+2024-Q2,2024,2,establishment_size,De 30 o más personas,36365.0
+2024-Q3,2024,3,establishment_size,De 30 o más personas,28264.0
+2024-Q4,2024,4,establishment_size,De 30 o más personas,35300.0
+2025-Q1,2025,1,establishment_size,De 30 o más personas,39056.0
+2025-Q2,2025,2,establishment_size,De 30 o más personas,33977.0
+2025-Q3,2025,3,establishment_size,De 30 o más personas,35974.0
+2025-Q4,2025,4,establishment_size,De 30 o más personas,31441.0
+2026-Q1,2026,1,establishment_size,De 30 o más personas,31390.0
+2010-Q3,2010,3,establishment_size,No especificado,224.0
+2010-Q4,2010,4,establishment_size,No especificado,555.0
+2011-Q1,2011,1,establishment_size,No especificado,2322.0
+2011-Q2,2011,2,establishment_size,No especificado,10106.0
+2011-Q3,2011,3,establishment_size,No especificado,959.0
+2011-Q4,2011,4,establishment_size,No especificado,259.0
+2012-Q1,2012,1,establishment_size,No especificado,
+2012-Q2,2012,2,establishment_size,No especificado,
+2012-Q3,2012,3,establishment_size,No especificado,
+2012-Q4,2012,4,establishment_size,No especificado,
+2013-Q1,2013,1,establishment_size,No especificado,
+2013-Q2,2013,2,establishment_size,No especificado,1092.0
+2013-Q3,2013,3,establishment_size,No especificado,80.0
+2013-Q4,2013,4,establishment_size,No especificado,213.0
+2014-Q1,2014,1,establishment_size,No especificado,466.0
+2014-Q2,2014,2,establishment_size,No especificado,1253.0
+2014-Q3,2014,3,establishment_size,No especificado,976.0
+2014-Q4,2014,4,establishment_size,No especificado,79.0
+2015-Q1,2015,1,establishment_size,No especificado,1495.0
+2015-Q2,2015,2,establishment_size,No especificado,850.0
+2015-Q3,2015,3,establishment_size,No especificado,83.0
+2015-Q4,2015,4,establishment_size,No especificado,1112.0
+2016-Q1,2016,1,establishment_size,No especificado,175.0
+2016-Q2,2016,2,establishment_size,No especificado,872.0
+2016-Q3,2016,3,establishment_size,No especificado,171.0
+2016-Q4,2016,4,establishment_size,No especificado,85.0
+2017-Q1,2017,1,establishment_size,No especificado,586.0
+2017-Q2,2017,2,establishment_size,No especificado,430.0
+2017-Q3,2017,3,establishment_size,No especificado,153.0
+2017-Q4,2017,4,establishment_size,No especificado,222.0
+2018-Q1,2018,1,establishment_size,No especificado,427.0
+2018-Q2,2018,2,establishment_size,No especificado,364.0
+2018-Q3,2018,3,establishment_size,No especificado,297.0
+2018-Q4,2018,4,establishment_size,No especificado,1403.0
+2019-Q1,2019,1,establishment_size,No especificado,813.0
+2019-Q2,2019,2,establishment_size,No especificado,148.0
+2019-Q3,2019,3,establishment_size,No especificado,375.0
+2019-Q4,2019,4,establishment_size,No especificado,103.0
+2020-Q1,2020,1,establishment_size,No especificado,1280.0
+2020-Q2,2020,2,establishment_size,No especificado,390.0
+2020-Q3,2020,3,establishment_size,No especificado,254.0
+2020-Q4,2020,4,establishment_size,No especificado,468.0
+2021-Q1,2021,1,establishment_size,No especificado,782.0
+2021-Q2,2021,2,establishment_size,No especificado,915.0
+2021-Q3,2021,3,establishment_size,No especificado,2214.0
+2021-Q4,2021,4,establishment_size,No especificado,3345.0
+2022-Q1,2022,1,establishment_size,No especificado,3228.0
+2022-Q2,2022,2,establishment_size,No especificado,1801.0
+2022-Q3,2022,3,establishment_size,No especificado,3537.0
+2022-Q4,2022,4,establishment_size,No especificado,1160.0
+2023-Q1,2023,1,establishment_size,No especificado,1838.0
+2023-Q2,2023,2,establishment_size,No especificado,498.0
+2023-Q3,2023,3,establishment_size,No especificado,1565.0
+2023-Q4,2023,4,establishment_size,No especificado,1835.0
+2024-Q1,2024,1,establishment_size,No especificado,987.0
+2024-Q2,2024,2,establishment_size,No especificado,384.0
+2024-Q3,2024,3,establishment_size,No especificado,1548.0
+2024-Q4,2024,4,establishment_size,No especificado,182.0
+2025-Q1,2025,1,establishment_size,No especificado,731.0
+2025-Q2,2025,2,establishment_size,No especificado,
+2025-Q3,2025,3,establishment_size,No especificado,327.0
+2025-Q4,2025,4,establishment_size,No especificado,
+2026-Q1,2026,1,establishment_size,No especificado,309.0

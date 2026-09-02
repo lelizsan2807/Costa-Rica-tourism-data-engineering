@@ -1,6 +1,6 @@
-from pandas import pd
+import pandas as pd
 from config import INPUT_FILE, SHEET_NAME
-from logging import logger
+import logging as logger
 
 def load_source_data() -> pd.DataFrame:
 

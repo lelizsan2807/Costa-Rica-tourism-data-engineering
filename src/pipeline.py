@@ -4,7 +4,7 @@ from extract import (
     extract_table
 )
 
-from transform import clean_table
+from transform import clean_table, create_period_dimension
 
 from validate import (
     validate_periods,
@@ -28,6 +28,8 @@ def main():
 
     periods = extract_periods(source_df)
     validate_periods(periods)
+    dim_period = create_period_dimension(periods)
+
 
     # 2. Transform
     tables = {}
@@ -64,7 +66,7 @@ def main():
     )
 
     # 6. Load database
-    load_sqlite(tables, periods)
+    load_sqlite(tables, dim_period)
 
     # 7. Verify
     check_database()
